@@ -26,15 +26,18 @@ Open any AI tool (ChatGPT, Claude, or Grok — all free):
 
 ```
 Prompt: "Explain what a large language model is in two paragraphs. 
-Use an analogy that would make sense to a healthcare professional."
+Use an analogy that would make sense to someone with no technical 
+background."
 ```
 
 Then iterate:
 
 ```
-Follow-up: "Now explain the limitations. What should a healthcare 
-worker know about what AI gets wrong?"
+Follow-up: "Now explain the limitations. What should someone know 
+about what AI gets wrong?"
 ```
+
+> **Industry variant (healthcare):** Try the analogy prompt with "Use an analogy that would make sense to a nurse or clinic administrator."
 
 **Reflect:** How did the second response change? What did the AI add when you asked it to focus on limitations? This is the beginning of **prompt iteration** — a skill you'll build throughout this program.
 
@@ -42,26 +45,29 @@ worker know about what AI gets wrong?"
 
 ## 1.2 Why AI at Work? (15 min)
 
-AI isn't replacing healthcare workers. It's eliminating the repetitive, time-consuming tasks that pull you away from higher-value work. Think of it as a drafting assistant that works instantly.
+AI isn't replacing workers. It's eliminating the repetitive, time-consuming tasks that pull you away from higher-value work. Think of it as a drafting assistant that works instantly.
 
-**Where AI adds value in healthcare (non-clinical):**
-- Drafting communications (emails, newsletters, patient education materials)
+**Where AI adds value (non-sensitive tasks):**
+- Drafting communications (emails, newsletters, customer-facing materials)
 - Summarizing long documents (policies, guidelines, meeting notes)
-- Research and synthesis (public health data, best practices)
+- Research and synthesis (industry data, best practices)
 - Brainstorming and planning (program design, workflow improvements)
 
 **Where AI does NOT belong:**
-- Clinical decision-making
-- Anything involving real patient data
+- High-stakes decisions without human review
+- Anything involving real personal or confidential data
 - Final-version documents without human review
 
 ### Exercise 1.2: Identify Your Use Cases
 
 ```
-Prompt: "I work in healthcare [your role — e.g., administration, 
-care coordination, IT]. What are 10 ways I could use AI to save 
-time on non-clinical tasks? Be specific and practical."
+Prompt: "I work in [your industry] as a [your role — e.g., 
+operations, administration, IT, marketing]. What are 10 ways I 
+could use AI to save time on routine tasks? Be specific and 
+practical."
 ```
+
+> **Industry variant (healthcare):** "I work in healthcare administration. What are 10 ways I could use AI to save time on non-clinical tasks?"
 
 **Reflect:** Which of these could you try this week? Pick one and note it — you'll come back to it in the Capable level.
 
@@ -75,30 +81,32 @@ Time to produce something you'd actually use. Choose the exercise that matches y
 
 ```
 Prompt: "Draft a professional email to staff announcing a new 
-wellness initiative. The tone should be encouraging but not 
-preachy. Keep it under 200 words. Include a clear call to action."
+initiative. The tone should be encouraging but not preachy. Keep 
+it under 200 words. Include a clear call to action."
 ```
 
-Iterate: Ask the AI to adjust tone, length, or audience. Try: "Make it more casual" or "Rewrite for clinical staff specifically."
+Iterate: Ask the AI to adjust tone, length, or audience. Try: "Make it more casual" or "Rewrite for a technical audience."
+
+> **Industry variant (healthcare):** "Draft an email announcing a new wellness initiative for clinical staff."
 
 ### Exercise 1.3b: Summarize a Document
 
-Find a publicly available healthcare document (a CDC guideline, a CMS fact sheet, or a published policy). Paste the text and prompt:
+Find a publicly available document relevant to your work (a government guideline, industry report, or published policy). Paste the text and prompt:
 
 ```
 Prompt: "Summarize this document in 5 bullet points. Focus on 
-what's actionable for a healthcare organization."
+what's actionable for my organization."
 ```
 
 ### Exercise 1.3c: Research a Topic
 
 ```
 Prompt: "What are the current best practices for employee 
-onboarding in healthcare organizations? Summarize the top 5 
-recommendations from recent industry literature."
+onboarding? Summarize the top 5 recommendations from recent 
+industry literature."
 ```
 
-**Important:** Verify the output. Check at least one claim against a real source. This builds the verification habit early.
+**Compliance note:** Verify the output. Check at least one claim against a real source. This builds the verification habit early.
 
 ---
 

@@ -132,7 +132,7 @@ How organizations adopt the framework:
 
 <div class="mermaid">
 flowchart TD
-    A[Public Core Repo<br/>AI Fluency for Healthcare<br/>CC BY-NC-SA 4.0] --> B[Organization Forks Repo]
+    A[Public Core Repo<br/>AI Fluency<br/>CC BY-NC-SA 4.0] --> B[Organization Forks Repo]
     B --> C[Make Private if Needed]
     C --> D[Customize Content<br/>Add internal guidelines<br/>Adjust exercises<br/>Brand for org]
     D --> E[Deploy via GitHub Pages]

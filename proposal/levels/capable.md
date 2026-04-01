@@ -28,16 +28,19 @@ Constraints: What should it avoid or include?
 ### Exercise 2.1: Role-Based Prompting
 
 ```
-Prompt: "Act as a healthcare communications specialist. I need to 
-draft a patient-facing FAQ about a new telehealth service. The 
-audience is patients aged 60+, many of whom are not tech-savvy. 
+Prompt: "Act as a communications specialist. I need to draft a 
+customer-facing FAQ about a new service we're launching. The 
+audience is non-technical users who may be unfamiliar with the 
+service.
 
 Write 8 Q&A pairs. Use simple language (6th grade reading level). 
 Each answer should be 2-3 sentences max. Include a question about 
 privacy/security."
 ```
 
-Compare this output to what you'd get from: "Write a telehealth FAQ." The difference is the structure.
+Compare this output to what you'd get from: "Write a service FAQ." The difference is the structure.
+
+> **Industry variant (healthcare):** "Act as a healthcare communications specialist. Draft a patient-facing FAQ about a new telehealth service. The audience is patients aged 60+, many of whom are not tech-savvy."
 
 **Iterate:** Ask the AI to add a question you think is missing, or adjust the reading level. Notice how specific instructions produce specific results.
 
@@ -51,12 +54,12 @@ AI excels at synthesizing information from complex topics into actionable summar
 
 ```
 Prompt: "Summarize the key differences between the following 
-approaches to staff training in healthcare: classroom-based, 
-e-learning, micro-learning, and on-the-job mentoring. 
+approaches to staff training: classroom-based, e-learning, 
+micro-learning, and on-the-job mentoring. 
 
 Present as a comparison table with columns: Approach, Strengths, 
 Weaknesses, Best For, Time Investment. Focus on what's most 
-relevant for a mid-size healthcare organization."
+relevant for a mid-size organization."
 ```
 
 **Verify:** Pick one claim from the output and check it against a published source. Did the AI get it right? Where was it imprecise?
@@ -67,10 +70,10 @@ Take the output from 2.2 and chain it:
 
 ```
 Follow-up: "Based on this comparison, recommend an approach for an 
-organization that needs to train 200 employees across clinical and 
-administrative roles in AI skills. They have limited budget and 
-can't pull people off the floor for full-day sessions. Justify 
-your recommendation."
+organization that needs to train 200 employees across multiple 
+departments in AI skills. They have limited budget and can't pull 
+people away from work for full-day sessions. Justify your 
+recommendation."
 ```
 
 This is **prompt chaining** — building on previous context to go deeper. It's how you move from one-off questions to sustained AI-assisted work.
@@ -112,8 +115,8 @@ If you have access to a CLI AI tool (Claude Code, OpenAI CLI, or similar):
 
 ```bash
 # Ask a direct question
-claude "What are the HIPAA Safe Harbor de-identification standards? 
-List all 18 identifiers."
+claude "What are the key principles of data de-identification? 
+List the common categories of personal identifiers."
 
 # Pipe content into AI for analysis
 cat meeting_notes.txt | claude "Summarize the key action items 

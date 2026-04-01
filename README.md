@@ -1,12 +1,14 @@
-# AI Fluency for Healthcare
+# AI Fluency
 
-**A micro-learning framework for building AI competency in healthcare organizations.**
+**A micro-learning framework for building AI competency across organizations.**
 
-AI is moving faster than any training program can keep up with. Static workshops and slide decks are outdated before they're delivered. This project takes a different approach: a living, open-source competency framework that uses AI agents to keep itself current — and teaches your teams to think AI-first while respecting the unique safety requirements of healthcare.
+Inspired by [Zapier's AI Fluency Rubric](https://zapier.com/blog/raising-ai-fluency-bar-in-hiring/).
+
+AI is moving faster than any training program can keep up with. Static workshops and slide decks are outdated before they're delivered. This project takes a different approach: a living, open-source competency framework that uses AI agents to keep itself current — and teaches your teams to think AI-first while respecting your organization's safety and compliance requirements.
 
 ## Why This Exists
 
-Healthcare organizations face a specific challenge: they need to adopt AI aggressively to stay competitive, but they operate under strict compliance, privacy, and safety constraints. Most AI training programs are either too generic (ignore healthcare risks) or too cautious (teach awareness without building real skills).
+Organizations of every kind face the same challenge: they need to adopt AI aggressively to stay competitive, but they need to do so responsibly — with appropriate compliance, privacy, and safety guardrails. In regulated industries like healthcare and finance, the stakes are even higher. Most AI training programs are either too generic (ignore industry-specific risks) or too cautious (teach awareness without building real skills).
 
 This framework solves both problems. It builds practical AI fluency through **micro-learning** — short, focused exercises that fit into real workflows — while embedding safety guardrails at every level.
 
@@ -28,7 +30,7 @@ This framework solves both problems. It builds practical AI fluency through **mi
 ## Quick Start
 
 - Read the [Overview & Executive Summary](./proposal/overview.md)
-- Review the [Healthcare AI Safety Guidelines](./proposal/guidelines.md)
+- Review the [AI Safety & Compliance Guidelines](./proposal/guidelines.md)
 - Explore the [competency levels](./proposal/levels/beginner.md)
 - See [how we measure success](./proposal/measurement.md)
 - View the [process flows and architecture](./process-flow.md)

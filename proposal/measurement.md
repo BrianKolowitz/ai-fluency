@@ -37,9 +37,9 @@ xychart-beta
     title "Fluency Slope by Team (Example)"
     x-axis ["Month 1", "Month 2", "Month 3", "Month 4", "Month 5", "Month 6"]
     y-axis "Fluency Score" 0 --> 100
-    line "Clinical Ops" [10, 25, 45, 60, 72, 80]
+    line "Operations" [10, 25, 45, 60, 72, 80]
     line "Admin Team" [15, 22, 30, 38, 50, 55]
-    line "IT / Informatics" [40, 50, 58, 65, 75, 85]
+    line "IT / Engineering" [40, 50, 58, 65, 75, 85]
 </div>
 
 ## Organizational KPIs
@@ -56,7 +56,7 @@ xychart-beta
 - **Knowledge sharing** — Cross-team exercise and pattern sharing activity
 
 ### Quality Metrics
-- **Safety compliance** — Zero PHI incidents in AI tool usage
+- **Safety compliance** — Zero data privacy incidents in AI tool usage
 - **Output verification rate** — % of AI outputs that are fact-checked before use
 - **Incident reports** — Tracked and resolved (a healthy number means people are reporting)
 
@@ -74,7 +74,7 @@ xychart-beta
 The measurement system feeds directly into the AI agent maintenance loop:
 
 1. **Feedback Agent** aggregates responses and identifies patterns ("Admin team stalling at Capable level — exercises may not match their workflow")
-2. **Content Review Agent** uses these insights to prioritize updates ("Add more scheduling and billing examples for admin roles")
+2. **Content Review Agent** uses these insights to prioritize updates ("Add more examples for ops roles")
 3. **Personalization Agent** adjusts individual learning paths ("This learner completed Beginner quickly — suggest jumping to Capable exercises 3-5")
 
 This creates a closed loop: measure → identify gaps → adapt content → measure again. The program improves itself.

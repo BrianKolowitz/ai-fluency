@@ -5,7 +5,7 @@ title: Competency Levels
 
 # Competency Levels
 
-Four levels of AI fluency, each building on the last. Learners self-assess and enter at their level — no need to start at Beginner if you're already using AI regularly.
+Four levels of AI fluency, each building on the last. Designed for any organization — learners self-assess and enter at their level. No need to start at Beginner if you're already using AI regularly.
 
 | Level | Focus | Time | Entry Criteria |
 |:------|:------|:-----|:---------------|

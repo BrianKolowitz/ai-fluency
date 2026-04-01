@@ -3,9 +3,11 @@ layout: default
 title: Home
 ---
 
-# AI Fluency for Healthcare
+# AI Fluency
 
 **Build AI competency across your organization — safely, measurably, and at zero cost.**
+
+Inspired by [Zapier's AI Fluency Rubric](https://zapier.com/blog/raising-ai-fluency-bar-in-hiring/).
 
 AI isn't slowing down. Your teams can't afford to wait for the next training cycle. This framework delivers practical AI skills through micro-learning — short, focused exercises that build real fluency without pulling people away from their work.
 
@@ -17,7 +19,7 @@ AI isn't slowing down. Your teams can't afford to wait for the next training cyc
 
 ### Proposal & Strategy
 - [Overview & Executive Summary](./proposal/overview.md) — The what, why, and how
-- [Healthcare AI Safety Guidelines](./proposal/guidelines.md) — Compliance-first guardrails
+- [AI Safety & Compliance Guidelines](./proposal/guidelines.md) — Compliance-first guardrails
 - [Measuring Success](./proposal/measurement.md) — KPIs, fluency slope, and outcomes
 
 ### Competency Levels

@@ -21,12 +21,13 @@ Build a chain where each step depends on the previous:
 
 **Step 1 — Define the problem:**
 ```
-Prompt: "Act as a healthcare operations consultant. A mid-size 
-hospital is seeing increasing patient wait times in outpatient 
-clinics (avg 35 min, up from 20 min over 12 months). Staff levels 
-haven't changed. What are the 5 most likely root causes? Rank by 
-probability."
+Prompt: "Act as an operations consultant. A mid-size organization 
+is seeing increasing customer response times (avg 35 min, up from 
+20 min over 12 months). Staff levels haven't changed. What are the 
+5 most likely root causes? Rank by probability."
 ```
+
+> **Industry variant (healthcare):** Reframe as "patient wait times in outpatient clinics" and include clinical staffing considerations.
 
 **Step 2 — Deep dive on the top cause:**
 ```
@@ -61,10 +62,10 @@ The AI landscape changes monthly. Experts need a framework for evaluating new to
 
 ```
 Prompt: "Create an evaluation framework for assessing new AI tools 
-for use in a healthcare organization. The framework should cover:
+for use in an organization. The framework should cover:
 
 - Capability assessment (what does it do well?)
-- Compliance check (HIPAA, data handling, BAA availability)
+- Compliance check (data handling, regulatory requirements, vendor agreements)
 - Security review (where does data go? who has access?)
 - Integration potential (does it fit existing workflows?)
 - Cost-benefit analysis (ROI vs. free alternatives)
@@ -73,6 +74,8 @@ for use in a healthcare organization. The framework should cover:
 Format as a scorecard template I can use to evaluate any new AI 
 tool in under 30 minutes."
 ```
+
+> **Compliance note:** For regulated industries, add specific checks — e.g., HIPAA BAA availability for healthcare, SOX compliance for finance.
 
 **Apply it:** Use the framework to evaluate a tool you've heard about but haven't tried. Share your evaluation with the workgroup.
 
@@ -85,7 +88,7 @@ AI agents are autonomous systems that perform tasks on a schedule or in response
 ### Exercise 4.3: Design an Organizational Agent
 
 ```
-Prompt: "Design an AI agent for a healthcare organization that:
+Prompt: "Design an AI agent for an organization that:
 
 1. Monitors a shared feedback channel for staff AI questions 
    and pain points
@@ -118,14 +121,14 @@ Choose a specific AI technique you've mastered (structured prompting, prompt cha
 
 ```
 Prompt: "Help me create a 1-page quick reference guide for 
-[technique]. The audience is healthcare professionals at the 
-Capable level who want to reach Proficient. Include:
+[technique]. The audience is professionals at the Capable level 
+who want to reach Proficient. Include:
 
 - What it is (2 sentences)
 - When to use it (3 scenarios)
 - Step-by-step how-to (numbered list)
 - Common mistakes to avoid
-- One complete worked example relevant to healthcare
+- One complete worked example relevant to [your industry]
 
 Keep it to one page — scannable, not dense."
 ```

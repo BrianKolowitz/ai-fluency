@@ -1,7 +1,7 @@
-# AI Fluency for Healthcare
+# AI Fluency
 
 ## Purpose
-Open-source micro-learning framework for building AI competency in healthcare organizations. Designed to be forked, customized, and deployed via GitHub Pages.
+Open-source micro-learning framework for building AI competency across organizations. Industry-agnostic by design — healthcare is used as an example vertical throughout. Designed to be forked, customized, and deployed via GitHub Pages.
 
 ## Stack
 - **Content:** Markdown with Jekyll frontmatter
@@ -16,7 +16,7 @@ README.md                     → Repo landing page (GitHub)
 _config.yml                   → Jekyll config (theme, nav, mermaid)
 proposal/
   overview.md                 → Executive summary
-  guidelines.md               → Healthcare AI safety framework
+  guidelines.md               → AI safety & compliance guidelines
   measurement.md              → KPIs, fluency slope, success criteria
   implementation.md           → Rollout plan and delivery strategy
   levels/
@@ -30,6 +30,8 @@ LICENSE                       → CC BY-NC-SA 4.0
 ```
 
 ## Key Decisions
+- **Industry-agnostic framing** — Framework is for any organization. Healthcare used as one example vertical. Exercises are general-first with industry variant callouts.
+- **Zapier attribution** — Inspired by Zapier's AI Fluency Rubric. Cited once in README, index, and overview.
 - **just-the-docs theme** over hacker/minima — professional nav + built-in Mermaid + dark mode for the CLI-forward audience.
 - **CC BY-NC-SA 4.0** instead of MIT — allows org forks (including private) but prevents commercialization/resale of the framework.
 - **Fluency slope** as primary metric over pass/fail — measures growth rate, not just completion. Key differentiator.
@@ -37,5 +39,5 @@ LICENSE                       → CC BY-NC-SA 4.0
 - **Generalized delivery** — No platform lock-in (Teams, Slack, etc.). Works with whatever the org already uses.
 
 ## Current Status
-- **Done:** Full framework content, all 4 levels with exercises, measurement system, implementation plan, 6 Mermaid diagrams, Jekyll config, license.
+- **Done:** Full framework content, all 4 levels with exercises, measurement system, implementation plan, 6 Mermaid diagrams, Jekyll config, license. Reframed from healthcare-specific to organizational adoption framework (2026-04-01).
 - **Next:** Deploy to GitHub Pages on personal account. Pitch to CIO/VP Clinical Apps workgroup on 2026-04-02.

@@ -65,7 +65,7 @@ Short, focused prompts delivered through the communication channel. 10-15 minute
 
 Agents tailor the micro-lessons based on:
 - **Level** — Beginner gets foundational prompts; Expert gets innovation challenges
-- **Role** — Clinical staff get patient communication exercises; admin get operational ones
+- **Role** — Customer-facing staff get communication exercises; admin get operational ones
 - **Slope** — Learners showing flat slope get encouragement and alternative exercises; steep slope learners get accelerated content
 
 ## Phase 3: Sustain (Ongoing)
@@ -112,7 +112,7 @@ flowchart LR
 | Risk | Mitigation |
 |:-----|:-----------|
 | Low adoption | Leadership endorsement + visible quick wins + daily micro-lessons reduce friction |
-| Compliance incident | Safety guidelines mandatory pre-req; exercises use only hypothetical data |
+| Compliance incident | Safety guidelines are a mandatory pre-req; exercises use only hypothetical data |
 | Content staleness | AI agents review quarterly; feedback loop catches gaps faster |
 | Learner frustration | Multiple entry points by skill level; no forced pace; peer support channel |
 | Tool access issues | Framework uses only free-tier tools; no premium subscriptions required |

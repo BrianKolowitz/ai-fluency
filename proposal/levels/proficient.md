@@ -19,7 +19,7 @@ Most workflows were designed before AI existed. They have manual steps that exis
 
 1. Map the current workflow (steps, inputs, outputs, decisions)
 2. Identify steps where AI could draft, summarize, analyze, or generate
-3. Identify steps that **must** remain human (clinical judgment, final approvals, patient interaction)
+3. Identify steps that **must** remain human (professional judgment, final approvals, sensitive interactions)
 4. Redesign with AI handling the drafting/analysis and humans handling the judgment/approval
 
 ### Exercise 3.1: Workflow Audit
@@ -35,9 +35,10 @@ Prompt: "I have a workflow for [describe process] with these steps:
 
 For each step, evaluate whether AI could handle it fully, assist 
 with it, or whether it must remain fully human. Then suggest a 
-redesigned workflow. This is in a healthcare setting — flag any 
-steps with compliance implications."
+redesigned workflow. Flag any steps with compliance implications."
 ```
+
+> **Industry variant (healthcare):** Add "This is in a healthcare setting — flag any steps with HIPAA or patient safety implications."
 
 **Key insight:** The best AI integrations don't add AI to existing steps — they eliminate steps entirely. A report that took 3 hours of research, 1 hour of drafting, and 1 hour of formatting might take 30 minutes of prompted generation and 30 minutes of human review.
 
@@ -75,20 +76,22 @@ AI can process and interpret data patterns when given the right framing. This is
 ### Exercise 3.3: Analyze Hypothetical Data
 
 ```
-Prompt: "Here's hypothetical patient satisfaction data for a 
-healthcare organization:
+Prompt: "Here's hypothetical customer satisfaction data for an 
+organization:
 
 Department A: 4.2/5 (n=500), trending down from 4.5 over 6 months
 Department B: 3.8/5 (n=300), stable
 Department C: 4.6/5 (n=200), trending up from 4.1
 
-Wait times: A=25min avg, B=40min avg, C=15min avg
+Response times: A=25min avg, B=40min avg, C=15min avg
 Staff turnover: A=12%, B=22%, C=8%
 
 Analyze the correlations. What story does this data tell? What 
 would you investigate further? Present findings in a format 
 suitable for a department head meeting."
 ```
+
+> **Industry variant (healthcare):** Reframe as "patient satisfaction data" with wait times and clinical staff turnover.
 
 **Follow-up:** "Now generate 3 specific, actionable recommendations based on this analysis. Include metrics we should track to measure whether the interventions are working."
 
@@ -101,14 +104,14 @@ If you manage people, your fluency multiplies through your team. This exercise f
 ### Exercise 3.4: Team Adoption Plan
 
 ```
-Prompt: "I manage a team of [size] in [department] at a healthcare 
-organization. I want to increase AI adoption on my team. Current 
+Prompt: "I manage a team of [size] in [department] at a [type of 
+organization]. I want to increase AI adoption on my team. Current 
 state: [describe — e.g., 2 of 8 team members use AI regularly].
 
 Design a 30-day plan to increase adoption. Consider:
 - Different comfort levels (some resistant, some eager)
 - Time constraints (can't add hours to the workday)
-- Healthcare compliance requirements
+- Compliance requirements for our industry
 - How to make early wins visible to build momentum
 
 Include specific actions for week 1, 2, 3, and 4. Format as a 
