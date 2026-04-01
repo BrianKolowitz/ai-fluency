@@ -14,6 +14,7 @@ title: Implementation
 4. **Announce the program** — Short, clear communication from leadership framing this as a priority, not optional.
 
 ### Week 1 Rollout
+
 | Day | Action |
 |:----|:-------|
 | **Mon** | Program announcement + Safety Guidelines distributed |
