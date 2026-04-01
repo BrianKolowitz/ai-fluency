@@ -28,6 +28,12 @@ AI isn't slowing down. Your teams can't afford to wait for the next training cyc
 
 *Inspired by [Zapier's AI Fluency Rubric](https://zapier.com/blog/raising-ai-fluency-bar-in-hiring/).*
 
+### Capstone Projects
+- [Expense Report Builder](./proposal/capstones/expense-report.md) — Beginner → Capable
+- [Meeting-to-Action Pipeline](./proposal/capstones/meeting-pipeline.md) — Capable → Proficient
+- [Process Documentation & Improvement](./proposal/capstones/process-improvement.md) — Proficient → Expert
+- [Personal AI Playbook](./proposal/capstones/playbook.md) — All levels (universal)
+
 ### Implementation
 - [Implementation Plan](./proposal/implementation.md) — Rollout strategy and delivery
 - [Process Flows & Architecture](./process-flow.md) — Visual diagrams of the system
