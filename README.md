@@ -16,10 +16,10 @@ This framework solves both problems. It builds practical AI fluency through **mi
 
 | Level | Focus | Time | Outcome |
 |-------|-------|------|---------|
-| [Beginner](./proposal/levels/beginner.md) | Foundations & mindset | ~1 hr | Understands AI capabilities and limits |
-| [Capable](./proposal/levels/capable.md) | Applied use (minimum bar) | ~1 hr | Uses AI effectively in daily work |
-| [Proficient](./proposal/levels/proficient.md) | Workflow redesign | ~1-2 hrs | Redesigns processes with AI integration |
-| [Expert](./proposal/levels/expert.md) | Innovation & leadership | ~1 hr | Drives AI adoption across teams |
+| [Beginner](./proposal/levels/beginner.html) | Foundations & mindset | ~1 hr | Understands AI capabilities and limits |
+| [Capable](./proposal/levels/capable.html) | Applied use (minimum bar) | ~1 hr | Uses AI effectively in daily work |
+| [Proficient](./proposal/levels/proficient.html) | Workflow redesign | ~1-2 hrs | Redesigns processes with AI integration |
+| [Expert](./proposal/levels/expert.html) | Innovation & leadership | ~1 hr | Drives AI adoption across teams |
 
 **AI agents maintain the content.** The framework is reviewed and updated continuously — adapting to new tools, incorporating organizational feedback, and raising the bar as fluency grows. The program practices what it preaches.
 
@@ -27,11 +27,11 @@ This framework solves both problems. It builds practical AI fluency through **mi
 
 ## Quick Start
 
-- Read the [Overview & Executive Summary](./proposal/overview.md)
-- Review the [Healthcare AI Safety Guidelines](./proposal/guidelines.md)
-- Explore the [competency levels](./proposal/levels/beginner.md)
-- See [how we measure success](./proposal/measurement.md)
-- View the [process flows and architecture](./process-flow.md)
+- Read the [Overview & Executive Summary](./proposal/overview.html)
+- Review the [Healthcare AI Safety Guidelines](./proposal/guidelines.html)
+- Explore the [competency levels](./proposal/levels/beginner.html)
+- See [how we measure success](./proposal/measurement.html)
+- View the [process flows and architecture](./process-flow.html)
 
 ## For Organizations
 
@@ -47,7 +47,7 @@ Zero additional tooling cost. Uses AI tools your teams can access today.
 
 ## Contributing
 
-Contributions welcome — see [CONTRIBUTING.md](./CONTRIBUTING.md).
+Contributions welcome — see [CONTRIBUTING.md](./CONTRIBUTING.html).
 
 ## License
 

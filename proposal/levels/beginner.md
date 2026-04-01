@@ -5,7 +5,7 @@ title: "Level 1: Beginner"
 
 # Level 1: Beginner — Foundations
 
-**Time:** ~1 hour | **Prerequisites:** Read the [Safety Guidelines](../guidelines.md) | **Goal:** Understand what AI is, what it can do, and how to interact with it safely.
+**Time:** ~1 hour | **Prerequisites:** Read the [Safety Guidelines](../guidelines.html) | **Goal:** Understand what AI is, what it can do, and how to interact with it safely.
 
 This level is for people with zero or minimal AI experience. No technical background needed. By the end, you'll have a mental model for what AI tools are, how they work at a high level, and the confidence to start using them.
 
@@ -110,8 +110,8 @@ Before moving to Capable, you should be able to answer yes to these:
 - [ ] I understand why AI outputs need verification
 - [ ] I've used an AI tool to produce something useful
 - [ ] I've iterated on a prompt at least once to improve output
-- [ ] I've read and understood the [Safety Guidelines](../guidelines.md)
+- [ ] I've read and understood the [Safety Guidelines](../guidelines.html)
 
 **Fluency slope check:** How has your perception of AI changed from before this level? What would you try next?
 
-[Next: Level 2 — Capable (Applied Use) →](./capable.md)
+[Next: Level 2 — Capable (Applied Use) →](./capable.html)

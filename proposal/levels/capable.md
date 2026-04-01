@@ -5,7 +5,7 @@ title: "Level 2: Capable"
 
 # Level 2: Capable — Applied Use
 
-**Time:** ~1 hour | **Prerequisites:** [Beginner](./beginner.md) or equivalent experience | **Goal:** Use AI as a daily tool with structured prompting and consistent output quality.
+**Time:** ~1 hour | **Prerequisites:** [Beginner](./beginner.html) or equivalent experience | **Goal:** Use AI as a daily tool with structured prompting and consistent output quality.
 
 This is the **minimum bar** for the organization. At this level, AI is no longer experimental — it's part of how you work. You can write effective prompts, get reliable results, and apply AI to real tasks with confidence.
 
@@ -141,4 +141,4 @@ Before moving to Proficient, you should be able to answer yes to these:
 
 **Fluency slope check:** Compare your AI usage this week to last week. Are you using it more often? For more complex tasks? That's positive slope.
 
-[← Back: Beginner](./beginner.md) | [Next: Level 3 — Proficient →](./proficient.md)
+[← Back: Beginner](./beginner.html) | [Next: Level 3 — Proficient →](./proficient.html)
