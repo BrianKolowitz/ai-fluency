@@ -7,8 +7,6 @@ title: Home
 
 **Build AI competency across your organization — safely, measurably, and at zero cost.**
 
-Inspired by [Zapier's AI Fluency Rubric](https://zapier.com/blog/raising-ai-fluency-bar-in-hiring/).
-
 AI isn't slowing down. Your teams can't afford to wait for the next training cycle. This framework delivers practical AI skills through micro-learning — short, focused exercises that build real fluency without pulling people away from their work.
 
 [Get Started →](./proposal/overview.md)
@@ -27,6 +25,8 @@ AI isn't slowing down. Your teams can't afford to wait for the next training cyc
 - [Capable — Applied Use](./proposal/levels/capable.md) — Embed AI into daily work (minimum bar)
 - [Proficient — Workflow Redesign](./proposal/levels/proficient.md) — Redesign processes with AI
 - [Expert — Innovation & Leadership](./proposal/levels/expert.md) — Drive organizational adoption
+
+*Inspired by [Zapier's AI Fluency Rubric](https://zapier.com/blog/raising-ai-fluency-bar-in-hiring/).*
 
 ### Implementation
 - [Implementation Plan](./proposal/implementation.md) — Rollout strategy and delivery
