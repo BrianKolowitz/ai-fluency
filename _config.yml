@@ -2,5 +2,5 @@ title: AI Fluency for Healthcare
 description: An open-source, micro-learning framework for building AI competency in healthcare organizations.
 theme: jekyll-theme-hacker
 
-url: ""
-baseurl: ""
+url: "https://briankolowitz.github.io"
+baseurl: "/ai-fluency"
