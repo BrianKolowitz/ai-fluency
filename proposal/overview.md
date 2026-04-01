@@ -77,4 +77,4 @@ These agents receive structured feedback from learners and program administrator
 
 **Time commitment:** 4-6 hours total, spread over 1-2 weeks at the learner's pace.
 
-**Prerequisites:** Read the [Healthcare AI Safety Guidelines](./guidelines.html) before starting any exercises.
+**Prerequisites:** Read the [Healthcare AI Safety Guidelines](./guidelines.md) before starting any exercises.

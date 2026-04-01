@@ -5,7 +5,7 @@ title: "Level 3: Proficient"
 
 # Level 3: Proficient — Workflow Redesign
 
-**Time:** ~1-2 hours | **Prerequisites:** [Capable](./capable.html) | **Goal:** Move from using AI for individual tasks to redesigning workflows and processes with AI integration.
+**Time:** ~1-2 hours | **Prerequisites:** [Capable](./capable.md) | **Goal:** Move from using AI for individual tasks to redesigning workflows and processes with AI integration.
 
 At this level, you stop asking "Can AI help with this task?" and start asking "Should this process be AI-first?" You're thinking systemically, not task-by-task.
 
@@ -132,4 +132,4 @@ Before moving to Expert, you should be able to answer yes to these:
 
 **Fluency slope check:** Are you initiating AI use proactively, or only when reminded? Proactive use is the signal of proficiency.
 
-[← Back: Capable](./capable.html) | [Next: Level 4 — Expert →](./expert.html)
+[← Back: Capable](./capable.md) | [Next: Level 4 — Expert →](./expert.md)

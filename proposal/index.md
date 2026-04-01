@@ -7,4 +7,4 @@ title: Proposal
 
 This section contains the full AI Fluency framework — from strategy through implementation.
 
-Start with the [Overview](./overview.html) for the executive summary, then explore the [competency levels](./levels/beginner.html) and [implementation plan](./implementation.html).
+Start with the [Overview](./overview.md) for the executive summary, then explore the [competency levels](./levels/beginner.md) and [implementation plan](./implementation.md).

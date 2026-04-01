@@ -5,7 +5,7 @@ title: "Level 4: Expert"
 
 # Level 4: Expert — Innovation & Leadership
 
-**Time:** ~1 hour | **Prerequisites:** [Proficient](./proficient.html) | **Goal:** Lead AI adoption across the organization. Evaluate new tools, design AI-integrated systems, and mentor others.
+**Time:** ~1 hour | **Prerequisites:** [Proficient](./proficient.md) | **Goal:** Lead AI adoption across the organization. Evaluate new tools, design AI-integrated systems, and mentor others.
 
 Experts don't just use AI — they shape how the organization uses it. You're the person others come to when they want to know what's possible.
 
@@ -163,4 +163,4 @@ At the Expert level, the checklist becomes a reflection:
 
 **Fluency slope check:** At this level, the question isn't "are you using AI more?" — it's "are you helping others use AI more?" Your slope is measured by the slopes of the people around you.
 
-[← Back: Proficient](./proficient.html)
+[← Back: Proficient](./proficient.md)
