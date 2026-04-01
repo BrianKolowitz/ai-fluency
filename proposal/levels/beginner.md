@@ -122,4 +122,6 @@ Before moving to Capable, you should be able to answer yes to these:
 
 **Fluency slope check:** How has your perception of AI changed from before this level? What would you try next?
 
+**Ready to apply what you've learned?** Try the [Expense Report Builder](../capstones/expense-report.md) capstone project.
+
 [Next: Level 2 — Capable (Applied Use) →](./capable.md)

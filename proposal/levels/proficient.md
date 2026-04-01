@@ -135,4 +135,6 @@ Before moving to Expert, you should be able to answer yes to these:
 
 **Fluency slope check:** Are you initiating AI use proactively, or only when reminded? Proactive use is the signal of proficiency.
 
+**Ready to apply what you've learned?** Try the [Process Documentation & Improvement](../capstones/process-improvement.md) capstone project.
+
 [← Back: Capable](./capable.md) | [Next: Level 4 — Expert →](./expert.md)

@@ -2,6 +2,8 @@
 
 **A micro-learning framework for building AI competency across organizations.**
 
+**[View the site →](https://briankolowitz.github.io/ai-fluency/)**
+
 AI is moving faster than any training program can keep up with. Static workshops and slide decks are outdated before they're delivered. This project takes a different approach: a living, open-source competency framework that uses AI agents to keep itself current — and teaches your teams to think AI-first while respecting your organization's safety and compliance requirements.
 
 ## Why This Exists

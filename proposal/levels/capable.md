@@ -144,4 +144,6 @@ Before moving to Proficient, you should be able to answer yes to these:
 
 **Fluency slope check:** Compare your AI usage this week to last week. Are you using it more often? For more complex tasks? That's positive slope.
 
+**Ready to apply what you've learned?** Try the [Meeting-to-Action Pipeline](../capstones/meeting-pipeline.md) capstone project.
+
 [← Back: Beginner](./beginner.md) | [Next: Level 3 — Proficient →](./proficient.md)

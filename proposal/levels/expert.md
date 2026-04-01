@@ -166,4 +166,6 @@ At the Expert level, the checklist becomes a reflection:
 
 **Fluency slope check:** At this level, the question isn't "are you using AI more?" — it's "are you helping others use AI more?" Your slope is measured by the slopes of the people around you.
 
+**Build your toolkit:** The [Personal AI Playbook](../capstones/playbook.md) capstone is for every level — start it now if you haven't already.
+
 [← Back: Proficient](./proficient.md)
