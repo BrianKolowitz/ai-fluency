@@ -2,8 +2,6 @@
 
 **A micro-learning framework for building AI competency across organizations.**
 
-Inspired by [Zapier's AI Fluency Rubric](https://zapier.com/blog/raising-ai-fluency-bar-in-hiring/).
-
 AI is moving faster than any training program can keep up with. Static workshops and slide decks are outdated before they're delivered. This project takes a different approach: a living, open-source competency framework that uses AI agents to keep itself current — and teaches your teams to think AI-first while respecting your organization's safety and compliance requirements.
 
 ## Why This Exists
@@ -22,6 +20,8 @@ This framework solves both problems. It builds practical AI fluency through **mi
 | [Capable](./proposal/levels/capable.md) | Applied use (minimum bar) | ~1 hr | Uses AI effectively in daily work |
 | [Proficient](./proposal/levels/proficient.md) | Workflow redesign | ~1-2 hrs | Redesigns processes with AI integration |
 | [Expert](./proposal/levels/expert.md) | Innovation & leadership | ~1 hr | Drives AI adoption across teams |
+
+Levels inspired by [Zapier's AI Fluency Rubric](https://zapier.com/blog/raising-ai-fluency-bar-in-hiring/).
 
 **AI agents maintain the content.** The framework is reviewed and updated continuously — adapting to new tools, incorporating organizational feedback, and raising the bar as fluency grows. The program practices what it preaches.
 
