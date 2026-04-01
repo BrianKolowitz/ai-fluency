@@ -1,9 +1,6 @@
 ---
 layout: default
 title: Competency Levels
-parent: Proposal
-nav_order: 5
-has_children: true
 ---
 
 # Competency Levels

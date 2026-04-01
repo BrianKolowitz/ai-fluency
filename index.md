@@ -1,18 +1,15 @@
 ---
 layout: default
 title: Home
-nav_order: 1
 ---
 
 # AI Fluency for Healthcare
 
 **Build AI competency across your organization — safely, measurably, and at zero cost.**
-{: .fs-6 .fw-300 }
 
 AI isn't slowing down. Your teams can't afford to wait for the next training cycle. This framework delivers practical AI skills through micro-learning — short, focused exercises that build real fluency without pulling people away from their work.
 
-[Get Started](./proposal/overview.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/bkolowitz/ai-fluency){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get Started →](./proposal/overview.md)
 
 ---
 

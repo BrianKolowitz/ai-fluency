@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Safety Guidelines
-parent: Proposal
-nav_order: 2
 ---
 
 # Healthcare AI Safety Guidelines

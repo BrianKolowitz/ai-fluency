@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Proposal
-nav_order: 2
-has_children: true
 ---
 
 # The Proposal

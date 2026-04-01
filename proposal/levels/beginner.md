@@ -1,9 +1,6 @@
 ---
 layout: default
 title: "Level 1: Beginner"
-parent: Competency Levels
-grand_parent: Proposal
-nav_order: 1
 ---
 
 # Level 1: Beginner — Foundations

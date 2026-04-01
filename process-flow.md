@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Process Flows
-nav_order: 5
 ---
 
 # Process Flows & Architecture
@@ -10,8 +9,7 @@ nav_order: 5
 
 How an individual moves through the framework:
 
-```mermaid
-%%{init: {'theme': 'dark'}}%%
+<div class="mermaid">
 flowchart TD
     A[Join Program] --> B[Read Safety Guidelines]
     B --> C[Self-Assess Starting Level]
@@ -31,14 +29,13 @@ flowchart TD
     L -->|Flat/Declining| N[Adjusted Content + Support]
     M --> I
     N --> I
-```
+</div>
 
 ## Micro-Learning Delivery
 
 How daily lessons reach learners and adapt:
 
-```mermaid
-%%{init: {'theme': 'dark'}}%%
+<div class="mermaid">
 flowchart LR
     A[Content Repo<br/>GitHub] --> B[AI Personalization Agent]
     C[Learner Profile<br/>Level + Role + Slope] --> B
@@ -47,14 +44,13 @@ flowchart LR
     E --> F[Learner Completes Exercise]
     F --> G[Feedback + Slope Data]
     G --> C
-```
+</div>
 
 ## AI Agent Maintenance Cycle
 
 How the framework stays current:
 
-```mermaid
-%%{init: {'theme': 'dark'}}%%
+<div class="mermaid">
 flowchart TD
     A[Learner Feedback<br/>Exercises, Slope Data, Comments] --> B[Feedback Agent<br/>Aggregate & Analyze]
     B --> C{Patterns Identified?}
@@ -68,12 +64,11 @@ flowchart TD
     I --> J[Notify Learners of Changes]
     E --> K[Update Learner Profiles<br/>Adjust Lesson Difficulty/Type]
     K --> L[Next Micro-Lesson Adapted]
-```
+</div>
 
 ## Technology Stack
 
-```mermaid
-%%{init: {'theme': 'dark'}}%%
+<div class="mermaid">
 flowchart TB
     subgraph Public["Open Source Core"]
         A[GitHub Repository<br/>Content + Config]
@@ -110,14 +105,13 @@ flowchart TB
     M --> AI
     Tools --> L
     D --> L
-```
+</div>
 
 ## Fluency Slope Tracking
 
 How growth is measured and acted upon:
 
-```mermaid
-%%{init: {'theme': 'dark'}}%%
+<div class="mermaid">
 flowchart LR
     A[Weekly Check-in<br/>3 Questions] --> B[Slope Calculation<br/>Breadth + Depth + Experimentation]
     B --> C{Trend}
@@ -130,14 +124,13 @@ flowchart LR
     F --> H
     G --> H
     H --> I[Next Lesson Personalized]
-```
+</div>
 
 ## Fork & Customize Model
 
 How organizations adopt the framework:
 
-```mermaid
-%%{init: {'theme': 'dark'}}%%
+<div class="mermaid">
 flowchart TD
     A[Public Core Repo<br/>AI Fluency for Healthcare<br/>CC BY-NC-SA 4.0] --> B[Organization Forks Repo]
     B --> C[Make Private if Needed]
@@ -150,4 +143,4 @@ flowchart TD
     I -->|Yes| J[Pull updates from public core]
     I -->|No| K[Continue with org version]
     J --> D
-```
+</div>

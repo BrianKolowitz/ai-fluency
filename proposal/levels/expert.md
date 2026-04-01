@@ -1,9 +1,6 @@
 ---
 layout: default
 title: "Level 4: Expert"
-parent: Competency Levels
-grand_parent: Proposal
-nav_order: 4
 ---
 
 # Level 4: Expert — Innovation & Leadership

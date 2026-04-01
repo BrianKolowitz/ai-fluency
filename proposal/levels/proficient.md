@@ -1,9 +1,6 @@
 ---
 layout: default
 title: "Level 3: Proficient"
-parent: Competency Levels
-grand_parent: Proposal
-nav_order: 3
 ---
 
 # Level 3: Proficient — Workflow Redesign

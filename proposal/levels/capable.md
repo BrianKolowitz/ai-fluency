@@ -1,9 +1,6 @@
 ---
 layout: default
 title: "Level 2: Capable"
-parent: Competency Levels
-grand_parent: Proposal
-nav_order: 2
 ---
 
 # Level 2: Capable — Applied Use

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <style>
+      body {
+        font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace;
+      }
+      .nav-bar {
+        background: #151515;
+        border-bottom: 1px solid #b5e853;
+        padding: 10px 0;
+        margin-bottom: 30px;
+        font-size: 14px;
+      }
+      .nav-bar .inner {
+        max-width: 980px;
+        margin: 0 auto;
+        padding: 0 20px;
+      }
+      .nav-bar a {
+        color: #b5e853;
+        text-decoration: none;
+        margin-right: 18px;
+      }
+      .nav-bar a:hover {
+        text-decoration: underline;
+      }
+      .nav-bar .sep {
+        color: #444;
+        margin-right: 18px;
+      }
+      .breadcrumb {
+        font-size: 13px;
+        color: #666;
+        margin-bottom: 20px;
+      }
+      .breadcrumb a {
+        color: #b5e853;
+      }
+      .page-nav {
+        margin-top: 40px;
+        padding-top: 20px;
+        border-top: 1px solid #333;
+        font-size: 14px;
+      }
+      .page-nav a {
+        color: #b5e853;
+      }
+      footer {
+        font-size: 12px;
+        color: #666;
+        border-top: 1px solid #333;
+        padding-top: 15px;
+        margin-top: 40px;
+      }
+      footer a {
+        color: #b5e853;
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
+    <script>
+      mermaid.initialize({
+        startOnLoad: true,
+        theme: 'dark',
+        securityLevel: 'loose'
+      });
+    </script>
+  </head>
+
+  <body>
+    <nav class="nav-bar">
+      <div class="inner">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <span class="sep">|</span>
+        <a href="{{ '/proposal/' | relative_url }}">Proposal</a>
+        <span class="sep">|</span>
+        <a href="{{ '/proposal/levels/' | relative_url }}">Levels</a>
+        <span class="sep">|</span>
+        <a href="{{ '/proposal/measurement' | relative_url }}">Metrics</a>
+        <span class="sep">|</span>
+        <a href="{{ '/process-flow' | relative_url }}">Diagrams</a>
+        <span class="sep">|</span>
+        <a href="https://github.com/BrianKolowitz/ai-fluency">GitHub</a>
+      </div>
+    </nav>
+
+    <div id="header">
+      <a id="project_title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <h2 id="project_tagline">{{ site.description }}</h2>
+    </div>
+
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ content }}
+
+        <footer>
+          <a href="{{ '/LICENSE' | relative_url }}">CC BY-NC-SA 4.0</a> &copy; 2026 Brian Kolowitz
+          <span class="sep">|</span>
+          <a href="{{ '/CONTRIBUTING' | relative_url }}">Contribute</a>
+        </footer>
+      </section>
+    </div>
+  </body>
+</html>

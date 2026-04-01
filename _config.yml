@@ -1,30 +1,6 @@
 title: AI Fluency for Healthcare
 description: An open-source, micro-learning framework for building AI competency in healthcare organizations.
-remote_theme: just-the-docs/just-the-docs
+theme: jekyll-theme-hacker
 
 url: ""
 baseurl: ""
-
-color_scheme: dark
-
-nav_order: 1
-
-mermaid:
-  version: "11"
-
-aux_links:
-  "View on GitHub":
-    - "//github.com/BrianKolowitz/ai-fluency"
-
-footer_content: "AI Fluency for Healthcare is licensed under <a href=\"/LICENSE\">CC BY-NC-SA 4.0</a>."
-
-callouts:
-  warning:
-    title: Warning
-    color: red
-  tip:
-    title: Tip
-    color: green
-  exercise:
-    title: "Try This"
-    color: blue

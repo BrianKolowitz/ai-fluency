@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Measuring Success
-parent: Proposal
-nav_order: 3
 ---
 
 # Measuring Success
@@ -34,8 +32,7 @@ These responses are tracked over time. The pattern reveals slope:
 
 ### Fluency Slope Visualization
 
-```mermaid
-%%{init: {'theme': 'dark'}}%%
+<div class="mermaid">
 xychart-beta
     title "Fluency Slope by Team (Example)"
     x-axis ["Month 1", "Month 2", "Month 3", "Month 4", "Month 5", "Month 6"]
@@ -43,7 +40,7 @@ xychart-beta
     line "Clinical Ops" [10, 25, 45, 60, 72, 80]
     line "Admin Team" [15, 22, 30, 38, 50, 55]
     line "IT / Informatics" [40, 50, 58, 65, 75, 85]
-```
+</div>
 
 ## Organizational KPIs
 

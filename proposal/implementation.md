@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Implementation
-parent: Proposal
-nav_order: 4
 ---
 
 # Implementation Plan
@@ -86,8 +84,7 @@ AI agents perform a full content review:
 
 ### Continuous Improvement Loop
 
-```mermaid
-%%{init: {'theme': 'dark'}}%%
+<div class="mermaid">
 flowchart LR
     A[Learners complete exercises] --> B[Feedback collected]
     B --> C[AI Agent analyzes patterns]
@@ -95,7 +92,7 @@ flowchart LR
     D --> E[Admin reviews & approves]
     E --> F[Repo updated, Pages redeployed]
     F --> A
-```
+</div>
 
 ## Infrastructure Requirements
 

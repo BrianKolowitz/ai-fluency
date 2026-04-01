@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Overview
-parent: Proposal
-nav_order: 1
 ---
 
 # AI Fluency Framework: Overview
