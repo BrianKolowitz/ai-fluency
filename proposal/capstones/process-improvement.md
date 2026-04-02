@@ -89,9 +89,9 @@ For each step, evaluate:
 - Must this remain fully human? (judgment, approval, relationship)
 
 Then categorize into:
-🟢 Automate — AI handles end-to-end
-🟡 Assist — AI drafts/prepares, human reviews/approves
-🔴 Human-only — Requires judgment, accountability, or relationship
+[AUTOMATE] — AI handles end-to-end
+[ASSIST] — AI drafts/prepares, human reviews/approves
+[HUMAN-ONLY] — Requires judgment, accountability, or relationship
 
 Present as a table: Step | Current State | AI Opportunity | 
 Category | Estimated Time Savings
@@ -101,7 +101,7 @@ Calculate total time savings per cycle."
 
 **Follow-up:**
 ```
-"For each 🟢 and 🟡 item, write the specific AI prompt or 
+"For each [AUTOMATE] and [ASSIST] item, write the specific AI prompt or 
 workflow that would handle it. Be concrete — if step 4 is 
 'summarize incoming requests,' write the exact prompt someone 
 would use."
