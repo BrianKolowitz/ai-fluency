@@ -49,4 +49,4 @@ LICENSE                       → CC BY-NC-SA 4.0
 
 ## Current Status
 - **Done:** Full framework content, all 4 levels with exercises (healthcare variants on all), 4 capstone projects, measurement system, implementation plan, 6 Mermaid diagrams, Jekyll config with hacker theme, CC BY-NC-SA license. Deployed to GitHub Pages.
-- **Next:** Pitch to CIO/VP Clinical Apps workgroup on 2026-04-02. AI agent implementation is Phase 2.
+- **Next:** AI agent implementation is Phase 2.

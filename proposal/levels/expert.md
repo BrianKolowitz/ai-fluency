@@ -151,7 +151,7 @@ Requirements:
 1. Identify a process, workflow, or problem that hasn't been addressed with AI yet
 2. Design a solution using currently available AI tools
 3. Consider compliance, feasibility, and measurable impact
-4. Present it to your team or team for feedback
+4. Present it to your team for feedback
 5. Implement a pilot if feasible
 
 This is where fluency becomes transformation. You're not completing an exercise — you're building something real.
