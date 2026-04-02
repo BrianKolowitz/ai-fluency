@@ -50,7 +50,7 @@ Compare this output to what you'd get from: "Write a service FAQ." The differenc
 
 AI excels at synthesizing information from complex topics into actionable summaries. The key skill: knowing what to ask for and how to verify.
 
-### Exercise 2.2: Research Synthesis
+### Exercise 2.2a: Research Synthesis
 
 ```
 Prompt: "Summarize the key differences between the following 
@@ -64,7 +64,7 @@ relevant for a mid-size organization."
 
 **Verify:** Pick one claim from the output and check it against a published source. Did the AI get it right? Where was it imprecise?
 
-### Exercise 2.3: From Research to Action
+### Exercise 2.2b: From Research to Action
 
 Take the output from 2.2 and chain it:
 
@@ -84,7 +84,7 @@ This is **prompt chaining** — building on previous context to go deeper. It's 
 
 At this level, start tracking how AI affects your work:
 
-### Exercise 2.4: Time Audit
+### Exercise 2.3: Time Audit
 
 Choose a task you completed with AI this week. Estimate:
 
@@ -109,7 +109,7 @@ This builds the habit of **quantifying AI impact** — which matters when the or
 
 AI tools aren't limited to web interfaces. Working from the command line unlocks faster iteration and integration into technical workflows.
 
-### Exercise 2.5: CLI Basics
+### Exercise 2.4: CLI Basics
 
 If you have access to a CLI AI tool (Claude Code, OpenAI CLI, or similar):
 

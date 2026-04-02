@@ -139,7 +139,7 @@ Share this with your team or the broader learning community. Every expert resour
 
 ## 4.5 The Innovation Challenge
 
-This is the capstone exercise. No template — just a goal:
+This is the ultimate challenge. No template — just a goal:
 
 **Design an AI-first solution to a real problem in your organization.**
 

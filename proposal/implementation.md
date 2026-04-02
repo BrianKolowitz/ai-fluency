@@ -25,7 +25,7 @@ title: Implementation
 
 ### Self-Assessment Entry Point
 
-Learners answer 5 questions to determine their starting level:
+Learners answer 4 questions to determine their starting level:
 
 1. Have you used an AI tool (ChatGPT, Claude, Grok) more than once? → No = **Beginner**
 2. Can you write a structured prompt with role, context, and constraints? → No = **Beginner**, Yes = continue
