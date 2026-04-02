@@ -94,6 +94,8 @@ Based on this, generate:
 4. 3 areas I should explore next"
 ```
 
+> **Industry variant (healthcare):** Seed with healthcare-specific prompts — patient communication templates, compliance-safe research workflows, policy summarization for staff training.
+
 ---
 
 ## Exercise 2: Capture from Capstone Work
@@ -114,6 +116,8 @@ Extract the reusable components for my playbook:
 ```
 
 Repeat this after each capstone or significant AI project.
+
+> **Industry variant (healthcare):** Extract compliance-aware patterns — which prompts needed de-identification, which workflows required human review gates.
 
 ---
 
@@ -138,6 +142,8 @@ presenting at a conference."
 
 **Actually share it.** Post in your team channel, show a colleague, bring it to your next 1:1. Teaching is the highest-leverage fluency activity.
 
+> **Industry variant (healthcare):** Create the walkthrough for a clinical colleague — emphasize the safety guardrails alongside the productivity gains.
+
 ---
 
 ## Exercise 4: Audit and Improve
@@ -159,6 +165,8 @@ Audit it:
 ```
 
 Do this monthly. A stale playbook is worse than no playbook — it teaches bad habits.
+
+> **Industry variant (healthcare):** Include a compliance audit of your playbook — are any prompts at risk of inadvertently processing sensitive data?
 
 ---
 
@@ -191,4 +199,4 @@ The best playbooks are messy, personal, and constantly evolving. Don't optimize 
 
 > **Industry variant (healthcare):** Seed your playbook with prompts specific to your clinical or administrative context — patient communication templates, compliance-safe research workflows, de-identified case study generators. Include a "compliance checklist" section in your playbook that you reference before every AI interaction involving sensitive domains.
 
-[← Back to Capstone Projects](./index.md)
+[← Back: Process Documentation](./process-improvement.md) | [Back to Capstone Projects](./index.md)

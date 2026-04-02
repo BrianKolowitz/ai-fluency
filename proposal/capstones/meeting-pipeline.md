@@ -45,6 +45,8 @@ Format as clean sections with bullet points."
 
 **Checkpoint:** Did the AI catch all the action items? Did it correctly assign owners? Did it flag the vendor contract deadline as urgent?
 
+> **Industry variant (healthcare):** Use a clinical operations meeting — staffing ratios, quality metrics review, regulatory prep items. Note: never include patient identifiers in notes processed through AI.
+
 ---
 
 ## Exercise 2: Generate the Follow-Up Email
@@ -69,6 +71,8 @@ Subject line should be clear and include the date."
 **Iterate:** Try adjusting for different audiences:
 - "Rewrite this as an executive summary for Sarah's boss — cut the details, emphasize decisions and risks"
 - "Rewrite just the action items as Slack messages, one per action owner"
+
+> **Industry variant (healthcare):** Frame for a clinical department audience — include compliance action items separately from operational ones.
 
 ---
 
@@ -100,6 +104,8 @@ we escalate before the next meeting?"
 
 This is where AI moves from reactive (processing notes) to proactive (identifying risks and suggesting actions).
 
+> **Industry variant (healthcare):** Include a standing "regulatory/compliance updates" agenda section typical of healthcare ops meetings.
+
 ---
 
 ## Exercise 4: Build Decision and Action Trackers
@@ -122,6 +128,8 @@ complete, a decision revisited)."
 ```
 
 **Iterate:** "Add conditional formatting rules — describe how I'd color-code overdue items in a spreadsheet, and which items should trigger reminders 3 days before deadline."
+
+> **Industry variant (healthcare):** Add a compliance-specific tracker alongside the decision and action trackers — tracking regulatory deadlines and audit items.
 
 ---
 
@@ -149,6 +157,8 @@ Format as a reference card I can keep at my desk or pin in a doc."
 
 **Save this pipeline.** It goes in your [Personal AI Playbook](./playbook.md).
 
+> **Industry variant (healthcare):** Note that the pipeline should include a de-identification check step for any notes that reference patient scenarios.
+
 ---
 
 ## Final Deliverable
@@ -168,4 +178,4 @@ A complete meeting processing system:
 
 > **Industry variant (healthcare):** Use a clinical operations meeting: staffing reviews, quality metrics, regulatory prep. Add a compliance note about not including patient identifiers in meeting notes processed through AI tools.
 
-[← Back to Capstone Projects](./index.md)
+[← Back: Expense Report Builder](./expense-report.md) | [Next: Process Documentation →](./process-improvement.md)

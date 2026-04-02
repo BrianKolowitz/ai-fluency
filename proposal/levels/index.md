@@ -10,7 +10,7 @@ Four levels of AI fluency, each building on the last. Designed for any organizat
 | Level | Focus | Entry Criteria |
 |:------|:------|:---------------|
 | [Beginner](./beginner.md) | Foundations & mindset | Zero AI experience |
-| [Capable](./capable.md) | Applied use | Has used AI before |
+| [Capable](./capable.md) | Applied use | Can write structured prompts |
 | [Proficient](./proficient.md) | Workflow redesign | Uses AI weekly |
 | [Expert](./expert.md) | Innovation & leadership | Has redesigned workflows with AI |
 

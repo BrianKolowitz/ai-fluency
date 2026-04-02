@@ -34,7 +34,9 @@ Levels inspired by [Zapier's AI Fluency Rubric](https://zapier.com/blog/raising-
 - Read the [Overview & Executive Summary](./proposal/overview.md)
 - Review the [AI Safety & Compliance Guidelines](./proposal/guidelines.md)
 - Explore the [competency levels](./proposal/levels/beginner.md)
+- Try a [capstone project](./proposal/capstones/index.md)
 - See [how we measure success](./proposal/measurement.md)
+- Review the [implementation plan](./proposal/implementation.md)
 - View the [process flows and architecture](./process-flow.md)
 
 ## For Organizations

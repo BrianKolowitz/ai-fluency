@@ -36,6 +36,8 @@ date, then category."
 
 **Checkpoint:** Does the table capture everything? Are the categories logical? Did the AI calculate the hotel total correctly (3 × $189)?
 
+> **Industry variant (healthcare):** Use a medical conference trip — CME registration, hotel near venue, hospital cafeteria meals, rideshare to sessions.
+
 ---
 
 ## Exercise 2: Categorize and Validate
@@ -57,6 +59,8 @@ Check for:
 ```
 
 **Checkpoint:** Did the AI catch the per-diem issue with the $185 dinner? Did it suggest expenses you actually forgot? This is where AI verification skills matter — the AI is checking your data, but you're checking the AI.
+
+> **Industry variant (healthcare):** Flag CME-eligible expenses separately for education reimbursement vs standard travel reimbursement.
 
 ---
 
@@ -83,6 +87,8 @@ Requirements:
 
 **Iterate:** Ask the AI to adjust formatting. Try: "Add a column for receipt status (have/missing)" or "Add the company policy note about meals over $50 requiring manager approval."
 
+> **Industry variant (healthcare):** Include a section for CME documentation requirements (certificates of attendance, credit hours claimed).
+
 ---
 
 ## Exercise 4: Generate the Summary Memo
@@ -101,6 +107,8 @@ Include:
 
 Also generate a one-line email subject for submitting this report."
 ```
+
+> **Industry variant (healthcare):** Note which expenses qualify for continuing education budget vs travel budget.
 
 ---
 
@@ -123,6 +131,8 @@ Format it so I can copy-paste it and fill in the blanks."
 
 **Save this template.** It goes in your [Personal AI Playbook](./playbook.md).
 
+> **Industry variant (healthcare):** Add CME/conference-specific fields to the template (conference name, credits earned, sessions attended).
+
 ---
 
 ## Final Deliverable
@@ -140,4 +150,4 @@ Combine your outputs into a complete expense report package:
 
 > **Industry variant (healthcare):** Use a conference trip to a medical conference (HIMSS, ACHE, etc.) as the scenario. Add categories for CME registration fees and required documentation for education reimbursement.
 
-[← Back to Capstone Projects](./index.md)
+[← Back to Capstone Projects](./index.md) | [Next: Meeting-to-Action Pipeline →](./meeting-pipeline.md)

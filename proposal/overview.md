@@ -57,7 +57,7 @@ Lead AI adoption across the organization. Chain complex AI interactions, evaluat
 | Pass/fail assessment | Fluency slope measures growth rate |
 | Generic examples | Customizable for any industry with compliance awareness |
 | One-time event | Living program that evolves with the org |
-| Requires new tooling | Built on free tools; costs scale with org choice |
+| Requires new tooling | Starts with free tools; no procurement needed |
 | PowerPoint delivery | Open-source repo — fork and own it |
 
 ## AI Agents: The Maintenance Layer

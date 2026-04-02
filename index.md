@@ -48,5 +48,5 @@ AI isn't slowing down. Your teams can't afford to wait for the next training cyc
 | **AI-maintained** | Agents review and update content continuously |
 | **Safety-first** | Compliance guardrails embedded at every level |
 | **Measurable** | Fluency slope tracks growth rate, not just completion |
-| **Built on free tools** | Uses free-tier AI tools; costs scale with organizational choice |
+| **Built on free tools** | Designed around free-tier AI tools; invest more as needs grow |
 | **Open & forkable** | Fork, customize, deploy — own your program |

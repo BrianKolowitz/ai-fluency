@@ -75,9 +75,9 @@ Format as a scorecard template I can use to evaluate any new AI
 tool in under 30 minutes."
 ```
 
-> **Compliance note:** For regulated industries, add specific checks — e.g., HIPAA BAA availability for healthcare, SOX compliance for finance.
-
 **Apply it:** Use the framework to evaluate a tool you've heard about but haven't tried. Share your evaluation with the team.
+
+> **Industry variant (healthcare):** Add healthcare-specific evaluation criteria — HIPAA BAA availability, PHI handling policies, integration with EHR systems, and clinical workflow compatibility.
 
 ---
 

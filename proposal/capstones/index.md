@@ -27,8 +27,8 @@ Each project follows the same structure:
 
 The **Personal AI Playbook** is the universal capstone — everyone builds one regardless of which other project they choose. It becomes your portable reference for AI-assisted work.
 
-*These projects are designed to be completed with free AI tools (ChatGPT, Claude, Grok) and require no special access or software.*
+*Capstones are multi-session projects — each exercise is micro-learning sized, but the full project builds over several sessions. Designed to be completed with free AI tools (ChatGPT, Claude, Grok) with no special access or software required.*
 
 ---
 
-[← Back: Expert Level](../levels/expert.md) | [Back to Proposal →](../index.md)
+[← Back to Proposal](../index.md)

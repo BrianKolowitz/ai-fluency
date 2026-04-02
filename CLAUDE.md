@@ -48,5 +48,5 @@ LICENSE                       → CC BY-NC-SA 4.0
 - **Generalized delivery** — No platform lock-in (Teams, Slack, etc.). Works with whatever the org already uses.
 
 ## Current Status
-- **Done:** Full framework content, all 4 levels with exercises (healthcare variants on all), 4 capstone projects, measurement system, implementation plan, 6 Mermaid diagrams, Jekyll config with hacker theme, CC BY-NC-SA license. Deployed to GitHub Pages.
+- **Done:** Full framework content, all 4 levels and 4 capstone projects with per-exercise healthcare variants, measurement system, implementation plan, 6 Mermaid diagrams, Jekyll config with hacker theme, CC BY-NC-SA license. Deployed to GitHub Pages.
 - **Next:** AI agent implementation is Phase 2.

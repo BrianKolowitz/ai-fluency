@@ -41,6 +41,8 @@ at the end."
 
 **Checkpoint:** Walk through the output against reality. What did the AI miss? What steps do you do that you didn't think to mention? Add them — the goal is a complete, honest picture.
 
+> **Industry variant (healthcare):** Good candidates for healthcare: patient intake, referral processing, prior authorization, discharge planning, medication reconciliation.
+
 ---
 
 ## Exercise 2: Generate the Current-State SOP
@@ -71,6 +73,8 @@ the first time."
 **Iterate:** "Add a RACI matrix (Responsible, Accountable, Consulted, Informed) for each step."
 
 This SOP has standalone value even before improvement — most processes don't have current documentation.
+
+> **Industry variant (healthcare):** Include regulatory references (Joint Commission standards, CMS requirements) as a section in the SOP.
 
 ---
 
@@ -107,6 +111,8 @@ workflow that would handle it. Be concrete — if step 4 is
 would use."
 ```
 
+> **Industry variant (healthcare):** Flag any step involving PHI as [HUMAN-ONLY] or requiring additional de-identification safeguards before AI can assist.
+
 ---
 
 ## Exercise 4: Design the Improved Process
@@ -134,6 +140,8 @@ Improved: X steps, Y minutes, Z handoffs"
 
 **Iterate:** "Generate a text-based process flow diagram showing the improved workflow. Mark which steps are AI-handled, AI-assisted, or human-only."
 
+> **Industry variant (healthcare):** Include a compliance review gate in any redesigned healthcare workflow — no AI-touched step goes live without compliance sign-off.
+
 ---
 
 ## Exercise 5: Build the Business Case
@@ -159,6 +167,8 @@ Structure:
 Write for a director or VP. Data-driven, concise, no jargon."
 ```
 
+> **Industry variant (healthcare):** Frame ROI in healthcare terms — reduced wait times, improved throughput, staff satisfaction, compliance audit readiness.
+
 ---
 
 ## Final Deliverable
@@ -178,4 +188,4 @@ A complete process improvement package:
 
 > **Industry variant (healthcare):** Apply this to a clinical workflow: referral processing, prior authorization, or patient intake. Add compliance review as a required step in the AI analysis — any AI-touched step involving patient data needs additional safeguards.
 
-[← Back to Capstone Projects](./index.md)
+[← Back: Meeting-to-Action Pipeline](./meeting-pipeline.md) | [Next: Personal AI Playbook →](./playbook.md)
