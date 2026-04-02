@@ -64,9 +64,11 @@ relevant for a mid-size organization."
 
 **Verify:** Pick one claim from the output and check it against a published source. Did the AI get it right? Where was it imprecise?
 
+> **Industry variant (healthcare):** Compare training approaches specific to clinical staff onboarding — simulation-based, preceptorship, competency checklists, and micro-learning.
+
 ### Exercise 2.2b: From Research to Action
 
-Take the output from 2.2 and chain it:
+Take the output from 2.2a and chain it:
 
 ```
 Follow-up: "Based on this comparison, recommend an approach for an 
@@ -77,6 +79,8 @@ recommendation."
 ```
 
 This is **prompt chaining** — building on previous context to go deeper. It's how you move from one-off questions to sustained AI-assisted work.
+
+> **Industry variant (healthcare):** Frame the recommendation for a healthcare org that can't pull clinical staff off the floor and must maintain patient-to-nurse ratios.
 
 ---
 
@@ -102,6 +106,8 @@ My role is [your role]."
 ```
 
 This builds the habit of **quantifying AI impact** — which matters when the organization measures adoption.
+
+> **Industry variant (healthcare):** Track a clinical documentation or administrative task — chart prep, referral processing, or insurance verification.
 
 ---
 
@@ -129,6 +135,8 @@ enrollment and positive feedback."
 ```
 
 The command line is where AI becomes a **power tool** — fast, scriptable, and integrated into how technical work gets done.
+
+> **Industry variant (healthcare):** Use CLI tools to query de-identification standards or summarize regulatory updates (e.g., "Summarize the latest CMS interoperability rule in 5 bullet points").
 
 ---
 

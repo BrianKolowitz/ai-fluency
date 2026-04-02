@@ -67,6 +67,8 @@ reliable results with minimal editing."
 
 Test the template with real inputs. Refine until the output consistently meets your standard. Save it — this is now a tool in your toolkit.
 
+> **Industry variant (healthcare):** Build a template for generating patient education materials — discharge instructions, medication guides, or wellness program descriptions (using only de-identified, hypothetical content).
+
 ---
 
 ## 3.3 Data Analysis and Synthesis (25 min)
@@ -120,6 +122,8 @@ Outcome."
 ```
 
 **Then:** Share the output (or your adapted version) with your team for feedback. This models the behavior you want to see.
+
+> **Industry variant (healthcare):** Design the adoption plan for a clinical department where staff have limited computer time and high patient interaction. Consider shift-based scheduling and huddle-based sharing.
 
 ---
 

@@ -98,6 +98,8 @@ Prompt: "Summarize this document in 5 bullet points. Focus on
 what's actionable for my organization."
 ```
 
+> **Industry variant (healthcare):** Summarize a publicly available CMS fact sheet or Joint Commission standard. Focus on what's actionable for compliance.
+
 ### Exercise 1.3c: Research a Topic
 
 ```
@@ -105,6 +107,8 @@ Prompt: "What are the current best practices for employee
 onboarding? Summarize the top 5 recommendations from recent 
 industry literature."
 ```
+
+> **Industry variant (healthcare):** Research best practices for patient safety culture or staff wellness programs in healthcare settings.
 
 **Compliance note:** Verify the output. Check at least one claim against a real source. This builds the verification habit early.
 
@@ -124,4 +128,4 @@ Before moving to Capable, you should be able to answer yes to these:
 
 **Ready to apply what you've learned?** Try the [Expense Report Builder](../capstones/expense-report.md) capstone project.
 
-[Next: Level 2 — Capable (Applied Use) →](./capable.md)
+[← Back: All Levels](./index.md) | [Next: Level 2 — Capable (Applied Use) →](./capable.md)

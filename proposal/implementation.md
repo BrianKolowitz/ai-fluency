@@ -58,7 +58,7 @@ Short, focused prompts delivered through the communication channel. 10-15 minute
 - Mon: "Identify a workflow in your area that could be AI-first. Map the current steps."
 - Tue: "Ask AI to redesign that workflow. Compare its suggestions to your ideas."
 - Wed: "Teach someone else one AI technique you've learned."
-- Thu: "Evaluate a new AI tool using the framework from Level 4."
+- Thu: "Evaluate a new AI tool using the framework from the Expert level."
 - Fri: "Final fluency slope check-in: How has your AI use changed over 4 weeks?"
 
 ### Personalization via AI Agents

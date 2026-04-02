@@ -109,6 +109,8 @@ Include a workflow diagram in text format."
 
 This is directly applicable to how this framework maintains itself. Agents aren't science fiction — they're the next layer of AI integration.
 
+> **Industry variant (healthcare):** Design an agent that monitors clinical quality metrics and generates weekly improvement suggestions for department leads — flagging trends in patient satisfaction, wait times, or readmission rates using hypothetical data.
+
 ---
 
 ## 4.4 Mentoring and Knowledge Transfer (15 min)
@@ -135,6 +137,8 @@ Keep it to one page — scannable, not dense."
 
 Share this with your team or the broader learning community. Every expert resource raises the organizational floor.
 
+> **Industry variant (healthcare):** Create the quick reference guide for a clinical workflow — e.g., using AI to prepare for patient case conferences or generate literature summaries for clinical questions.
+
 ---
 
 ## 4.5 The Innovation Challenge
@@ -152,6 +156,8 @@ Requirements:
 
 This is where fluency becomes transformation. You're not completing an exercise — you're building something real.
 
+> **Industry variant (healthcare):** Apply this to a healthcare operations challenge — prior authorization automation, clinical documentation improvement, or patient communication optimization.
+
 ---
 
 ## 4.6 Checkpoint
@@ -168,4 +174,4 @@ At the Expert level, the checklist becomes a reflection:
 
 **Build your toolkit:** The [Personal AI Playbook](../capstones/playbook.md) capstone is for every level — start it now if you haven't already.
 
-[← Back: Proficient](./proficient.md)
+[← Back: Proficient](./proficient.md) | [Next: Capstone Projects →](../capstones/index.md)
