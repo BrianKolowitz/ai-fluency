@@ -75,7 +75,7 @@ practical."
 
 ## 1.3 Your First Useful Output
 
-Time to produce something you'd actually use. Choose the exercise that matches your role:
+Time to produce something you'd actually use. **Pick one** of the exercises below — whichever matches your role:
 
 ### Exercise 1.3a: Draft a Communication
 

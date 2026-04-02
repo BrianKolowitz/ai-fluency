@@ -43,7 +43,7 @@ This is designed to be forked and customized:
 
 1. **Fork this repo** to your organization's GitHub (public or private)
 2. **Customize** exercises, guidelines, and examples for your context
-3. **Deploy** via GitHub Pages for instant access — no infrastructure needed
+3. **Deploy** via GitHub Pages for instant access — update `baseurl` in `_config.yml` to match your repo name
 4. **Configure AI agents** to maintain and personalize content for your teams
 5. **Measure** adoption and growth through the built-in fluency slope framework
 
