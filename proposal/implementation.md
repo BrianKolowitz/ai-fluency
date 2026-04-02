@@ -116,3 +116,7 @@ flowchart LR
 | Content staleness | AI agents review quarterly; feedback loop catches gaps faster |
 | Learner frustration | Multiple entry points by skill level; no forced pace; peer support channel |
 | Tool access issues | Framework uses only free-tier tools; no premium subscriptions required |
+
+---
+
+[← Back: Measuring Success](./measurement.md) | [Next: Competency Levels →](./levels/index.md)

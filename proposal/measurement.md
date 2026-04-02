@@ -90,3 +90,7 @@ For a pilot program, these targets indicate the framework is working:
 | Positive fluency slope | 70% | 85% |
 | AI used weekly | 50% | 70% |
 | Safety incidents | 0 | 0 |
+
+---
+
+[← Back: Safety Guidelines](./guidelines.md) | [Next: Implementation →](./implementation.md)

@@ -189,4 +189,6 @@ The playbook isn't done when the program ends. It grows with you:
 
 The best playbooks are messy, personal, and constantly evolving. Don't optimize for polish — optimize for usefulness.
 
+> **Industry variant (healthcare):** Seed your playbook with prompts specific to your clinical or administrative context — patient communication templates, compliance-safe research workflows, de-identified case study generators. Include a "compliance checklist" section in your playbook that you reference before every AI interaction involving sensitive domains.
+
 [← Back to Capstone Projects](./index.md)

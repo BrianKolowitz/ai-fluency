@@ -49,4 +49,4 @@ AI isn't slowing down. Your teams can't afford to wait for the next training cyc
 | **Safety-first** | Compliance guardrails embedded at every level |
 | **Measurable** | Fluency slope tracks growth rate, not just completion |
 | **Zero cost** | Uses free AI tools and existing infrastructure |
-| **Open source** | Fork, customize, deploy — own your program |
+| **Open & forkable** | Fork, customize, deploy — own your program |

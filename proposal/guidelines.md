@@ -78,3 +78,7 @@ AFTER receiving output, ask:
 ```
 
 These guidelines are reinforced in every level of the framework. As you progress, the exercises become more complex — but the safety principles remain constant.
+
+---
+
+[← Back: Overview](./overview.md) | [Next: Measuring Success →](./measurement.md)

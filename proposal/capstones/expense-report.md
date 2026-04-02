@@ -121,7 +121,7 @@ reusable prompt template I can use for any future trip. Include:
 Format it so I can copy-paste it and fill in the blanks."
 ```
 
-**Save this template.** It goes in your Personal AI Playbook.
+**Save this template.** It goes in your [Personal AI Playbook](./playbook.md).
 
 ---
 

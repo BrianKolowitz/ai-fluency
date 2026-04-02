@@ -147,7 +147,7 @@ context is fresh').
 Format as a reference card I can keep at my desk or pin in a doc."
 ```
 
-**Save this pipeline.** It goes in your Personal AI Playbook.
+**Save this pipeline.** It goes in your [Personal AI Playbook](./playbook.md).
 
 ---
 

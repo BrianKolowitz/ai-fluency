@@ -79,6 +79,10 @@ These agents receive structured feedback from learners and program administrator
 
 The framework is industry-agnostic by design. Organizations fork it and customize exercises for their context — whether that's healthcare, finance, education, legal, or general enterprise.
 
-**Time commitment:** 4-6 hours total, spread over 1-2 weeks at the learner's pace.
+**Time commitment:** 4-6 hours for core levels, spread over 1-2 weeks at the learner's pace. [Capstone projects](./capstones/index.md) add 1.5-2 hours each.
 
 **Prerequisites:** Read the [AI Safety & Compliance Guidelines](./guidelines.md) before starting any exercises.
+
+---
+
+[Next: Safety Guidelines →](./guidelines.md)
