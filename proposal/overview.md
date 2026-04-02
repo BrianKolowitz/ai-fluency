@@ -7,7 +7,7 @@ title: Overview
 
 ## The Problem
 
-AI capabilities are advancing monthly. Traditional training — workshops, slide decks, annual refreshers — can't keep pace. Organizations across every industry face the same gap: teams either avoid AI entirely (losing competitive advantage) or adopt it inconsistently (creating compliance and quality risks). Neither is acceptable for organizations undergoing AI transformation.
+AI capabilities are advancing near-daily. Traditional training — workshops, slide decks, annual refreshers — can't keep pace. Organizations across every industry face the same gap: teams either avoid AI entirely (losing competitive advantage) or adopt it inconsistently (creating compliance and quality risks). Neither is acceptable for organizations undergoing AI transformation.
 
 In regulated industries like healthcare and finance, the challenge is even sharper — strict compliance and safety requirements make "just experiment with it" an insufficient strategy.
 
@@ -36,16 +36,16 @@ Each exercise follows a consistent pattern: **Context → Try This → Reflect �
 
 ## The Four Levels
 
-### Beginner — Foundations (~1 hour)
+### Beginner — Foundations
 Build understanding of what AI is, what it can and can't do, and how to interact with it safely. No prior experience needed.
 
-### Capable — Applied Use (~1 hour)
+### Capable — Applied Use
 The **minimum bar** for the organization. Learners can use AI effectively in their daily work: research, drafting, summarization, structured prompting. This is where AI becomes a daily tool, not an occasional experiment.
 
-### Proficient — Workflow Redesign (~1-2 hours)
+### Proficient — Workflow Redesign
 Move beyond using AI for individual tasks to redesigning workflows. Identify processes that should be AI-first. For managers: drive team adoption.
 
-### Expert — Innovation & Leadership (~1 hour)
+### Expert — Innovation & Leadership
 Lead AI adoption across the organization. Chain complex AI interactions, evaluate new tools, mentor others, and design AI-integrated systems.
 
 ## What Makes This Different
@@ -57,7 +57,7 @@ Lead AI adoption across the organization. Chain complex AI interactions, evaluat
 | Pass/fail assessment | Fluency slope measures growth rate |
 | Generic examples | Customizable for any industry with compliance awareness |
 | One-time event | Living program that evolves with the org |
-| Requires new tooling | Zero cost, uses free AI tools |
+| Requires new tooling | Built on free tools; costs scale with org choice |
 | PowerPoint delivery | Open-source repo — fork and own it |
 
 ## AI Agents: The Maintenance Layer
@@ -79,7 +79,7 @@ These agents receive structured feedback from learners and program administrator
 
 The framework is industry-agnostic by design. Organizations fork it and customize exercises for their context — whether that's healthcare, finance, education, legal, or general enterprise.
 
-**Time commitment:** 4-6 hours for core levels, spread over 1-2 weeks at the learner's pace. [Capstone projects](./capstones/index.md) add 1.5-2 hours each.
+**Pace:** Self-paced. Competency is based on skills, not time boxes. [Capstone projects](./capstones/index.md) reinforce learning with real deliverables.
 
 **Prerequisites:** Read the [AI Safety & Compliance Guidelines](./guidelines.md) before starting any exercises.
 

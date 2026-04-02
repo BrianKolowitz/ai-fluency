@@ -5,13 +5,13 @@ title: "Level 2: Capable"
 
 # Level 2: Capable — Applied Use
 
-**Time:** ~1 hour | **Prerequisites:** [Beginner](./beginner.md) or equivalent experience | **Goal:** Use AI as a daily tool with structured prompting and consistent output quality.
+**Prerequisites:** [Beginner](./beginner.md) or equivalent experience | **Goal:** Use AI as a daily tool with structured prompting and consistent output quality.
 
 This is the **minimum bar** for the organization. At this level, AI is no longer experimental — it's part of how you work. You can write effective prompts, get reliable results, and apply AI to real tasks with confidence.
 
 ---
 
-## 2.1 Structured Prompting (20 min)
+## 2.1 Structured Prompting
 
 The difference between a beginner and a capable AI user is **prompt structure**. Instead of vague questions, you give the AI clear context, a specific role, and defined constraints.
 
@@ -46,7 +46,7 @@ Compare this output to what you'd get from: "Write a service FAQ." The differenc
 
 ---
 
-## 2.2 AI for Research and Synthesis (20 min)
+## 2.2 AI for Research and Synthesis
 
 AI excels at synthesizing information from complex topics into actionable summaries. The key skill: knowing what to ask for and how to verify.
 
@@ -84,7 +84,7 @@ This is **prompt chaining** — building on previous context to go deeper. It's 
 
 ---
 
-## 2.3 Measuring Your Impact (15 min)
+## 2.3 Measuring Your Impact
 
 At this level, start tracking how AI affects your work:
 
@@ -111,7 +111,7 @@ This builds the habit of **quantifying AI impact** — which matters when the or
 
 ---
 
-## 2.4 Command-Line AI Interaction (15 min)
+## 2.4 Command-Line AI Interaction
 
 AI tools aren't limited to web interfaces. Working from the command line unlocks faster iteration and integration into technical workflows.
 

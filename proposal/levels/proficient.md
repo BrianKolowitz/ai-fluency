@@ -5,13 +5,13 @@ title: "Level 3: Proficient"
 
 # Level 3: Proficient — Workflow Redesign
 
-**Time:** ~1-2 hours | **Prerequisites:** [Capable](./capable.md) | **Goal:** Move from using AI for individual tasks to redesigning workflows and processes with AI integration.
+**Prerequisites:** [Capable](./capable.md) | **Goal:** Move from using AI for individual tasks to redesigning workflows and processes with AI integration.
 
 At this level, you stop asking "Can AI help with this task?" and start asking "Should this process be AI-first?" You're thinking systemically, not task-by-task.
 
 ---
 
-## 3.1 AI-First Process Thinking (25 min)
+## 3.1 AI-First Process Thinking
 
 Most workflows were designed before AI existed. They have manual steps that exist because automation wasn't available. Proficient users identify these steps and redesign around them.
 
@@ -44,7 +44,7 @@ redesigned workflow. Flag any steps with compliance implications."
 
 ---
 
-## 3.2 Building Reusable Prompt Systems (25 min)
+## 3.2 Building Reusable Prompt Systems
 
 One-off prompts are Capable-level work. Proficient users build **prompt templates** — reusable, tested prompts that produce consistent results for recurring tasks.
 
@@ -71,7 +71,7 @@ Test the template with real inputs. Refine until the output consistently meets y
 
 ---
 
-## 3.3 Data Analysis and Synthesis (25 min)
+## 3.3 Data Analysis and Synthesis
 
 AI can process and interpret data patterns when given the right framing. This isn't about replacing analytics tools — it's about rapid synthesis and hypothesis generation.
 
@@ -99,7 +99,7 @@ suitable for a department head meeting."
 
 ---
 
-## 3.4 For Managers: Driving Team Adoption (20 min)
+## 3.4 For Managers: Driving Team Adoption
 
 If you manage people, your fluency multiplies through your team. This exercise focuses on creating the conditions for team-wide AI adoption.
 

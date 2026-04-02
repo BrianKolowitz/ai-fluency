@@ -5,13 +5,13 @@ title: "Capstone: Expense Report Builder"
 
 # Capstone: Expense Report Builder
 
-**Difficulty:** Beginner → Capable | **Time:** ~1.5 hours across exercises | **Deliverable:** A formatted expense report ready for submission
+**Difficulty:** Beginner → Capable | **Deliverable:** A formatted expense report ready for submission
 
 You just got back from a work trip. You have a pile of receipts, some in your email, some photographed on your phone, some scribbled on napkins. Instead of spending an hour wrestling with a spreadsheet, you'll use AI to organize, categorize, format, and prepare a complete expense report.
 
 ---
 
-## Exercise 1: Collect and Structure Raw Data (15 min)
+## Exercise 1: Collect and Structure Raw Data
 
 Start with messy input — just like real life. Create a rough list of expenses (use a real trip or make one up):
 
@@ -38,7 +38,7 @@ date, then category."
 
 ---
 
-## Exercise 2: Categorize and Validate (15 min)
+## Exercise 2: Categorize and Validate
 
 Now refine the categorization and catch errors:
 
@@ -60,7 +60,7 @@ Check for:
 
 ---
 
-## Exercise 3: Format for Submission (15 min)
+## Exercise 3: Format for Submission
 
 Turn the validated data into a submission-ready format:
 
@@ -85,7 +85,7 @@ Requirements:
 
 ---
 
-## Exercise 4: Generate the Summary Memo (15 min)
+## Exercise 4: Generate the Summary Memo
 
 Most expense reports need a cover memo or summary:
 
@@ -104,7 +104,7 @@ Also generate a one-line email subject for submitting this report."
 
 ---
 
-## Exercise 5: Build a Reusable Template (15 min)
+## Exercise 5: Build a Reusable Template
 
 Turn this into a tool you'll use again:
 

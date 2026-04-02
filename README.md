@@ -16,12 +16,12 @@ This framework solves both problems. It builds practical AI fluency through **mi
 
 **Four competency levels**, each with hands-on exercises using free, accessible AI tools:
 
-| Level | Focus | Time | Outcome |
-|-------|-------|------|---------|
-| [Beginner](./proposal/levels/beginner.md) | Foundations & mindset | ~1 hr | Understands AI capabilities and limits |
-| [Capable](./proposal/levels/capable.md) | Applied use (minimum bar) | ~1 hr | Uses AI effectively in daily work |
-| [Proficient](./proposal/levels/proficient.md) | Workflow redesign | ~1-2 hrs | Redesigns processes with AI integration |
-| [Expert](./proposal/levels/expert.md) | Innovation & leadership | ~1 hr | Drives AI adoption across teams |
+| Level | Focus | Outcome |
+|-------|-------|---------|
+| [Beginner](./proposal/levels/beginner.md) | Foundations & mindset | Understands AI capabilities and limits |
+| [Capable](./proposal/levels/capable.md) | Applied use (minimum bar) | Uses AI effectively in daily work |
+| [Proficient](./proposal/levels/proficient.md) | Workflow redesign | Redesigns processes with AI integration |
+| [Expert](./proposal/levels/expert.md) | Innovation & leadership | Drives AI adoption across teams |
 
 Levels inspired by [Zapier's AI Fluency Rubric](https://zapier.com/blog/raising-ai-fluency-bar-in-hiring/).
 
@@ -47,7 +47,7 @@ This is designed to be forked and customized:
 4. **Configure AI agents** to maintain and personalize content for your teams
 5. **Measure** adoption and growth through the built-in fluency slope framework
 
-Zero additional tooling cost. Uses AI tools your teams can access today.
+Built on free AI tools. Costs scale with organizational choice — but the barrier to entry is zero.
 
 ## Contributing
 

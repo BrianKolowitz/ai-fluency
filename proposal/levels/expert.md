@@ -5,13 +5,13 @@ title: "Level 4: Expert"
 
 # Level 4: Expert — Innovation & Leadership
 
-**Time:** ~1 hour | **Prerequisites:** [Proficient](./proficient.md) | **Goal:** Lead AI adoption across the organization. Evaluate new tools, design AI-integrated systems, and mentor others.
+**Prerequisites:** [Proficient](./proficient.md) | **Goal:** Lead AI adoption across the organization. Evaluate new tools, design AI-integrated systems, and mentor others.
 
 Experts don't just use AI — they shape how the organization uses it. You're the person others come to when they want to know what's possible.
 
 ---
 
-## 4.1 Advanced Prompt Chains and Multi-Step Reasoning (20 min)
+## 4.1 Advanced Prompt Chains and Multi-Step Reasoning
 
 Expert-level AI use involves orchestrating complex, multi-step interactions where each output feeds the next. This is where AI moves from assistant to collaborator.
 
@@ -54,9 +54,9 @@ This is how AI becomes a **thinking partner** for complex problems — not just 
 
 ---
 
-## 4.2 Evaluating and Adopting New AI Tools (15 min)
+## 4.2 Evaluating and Adopting New AI Tools
 
-The AI landscape changes monthly. Experts need a framework for evaluating new tools quickly and determining organizational fit.
+The AI landscape changes rapidly. Experts need a framework for evaluating new tools quickly and determining organizational fit.
 
 ### Exercise 4.2: Tool Evaluation Framework
 
@@ -81,7 +81,7 @@ tool in under 30 minutes."
 
 ---
 
-## 4.3 AI Agent Design (20 min)
+## 4.3 AI Agent Design
 
 AI agents are autonomous systems that perform tasks on a schedule or in response to triggers. At the expert level, you're designing how agents serve the organization — not just using them yourself.
 
@@ -113,7 +113,7 @@ This is directly applicable to how this framework maintains itself. Agents aren'
 
 ---
 
-## 4.4 Mentoring and Knowledge Transfer (15 min)
+## 4.4 Mentoring and Knowledge Transfer
 
 Expert fluency isn't just personal — it's organizational. The highest-value expert activity is raising the fluency of others.
 

@@ -101,11 +101,11 @@ flowchart LR
 |:----------|:-----|:-----|
 | Content hosting | GitHub Pages | Free |
 | Version control | Git/GitHub | Free |
-| AI tools for exercises | ChatGPT, Claude, Grok (free tiers) | $0 |
-| Communication channel | Existing org tool (Teams, Slack, etc.) | $0 (existing) |
-| Feedback collection | Forms tool (Google Forms, MS Forms, etc.) | $0 (existing) |
+| AI tools for exercises | ChatGPT, Claude, Grok (free tiers) | Free |
+| Communication channel | Existing org tool (Teams, Slack, etc.) | Existing |
+| Feedback collection | Forms tool (Google Forms, MS Forms, etc.) | Existing |
 | AI agents for maintenance | CLI AI tools | Minimal |
-| **Total** | | **$0 incremental** |
+| **Total** | | **Free-tier baseline; costs scale with tool choice** |
 
 ## Risk Mitigation
 

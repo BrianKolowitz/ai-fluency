@@ -5,7 +5,7 @@ title: "Capstone: Process Documentation & Improvement"
 
 # Capstone: Process Documentation & Improvement
 
-**Difficulty:** Proficient → Expert | **Time:** ~2 hours across exercises | **Deliverable:** A current-state SOP and an AI-improved process proposal
+**Difficulty:** Proficient → Expert | **Deliverable:** A current-state SOP and an AI-improved process proposal
 
 Every organization has processes that evolved organically — workarounds stacked on workarounds, manual steps nobody questions, documentation that's years out of date. This project picks one real process, documents it properly, and redesigns it with AI integration.
 
@@ -13,7 +13,7 @@ This is the capstone that most directly demonstrates the shift from "using AI" t
 
 ---
 
-## Exercise 1: Select and Map the Current Process (20 min)
+## Exercise 1: Select and Map the Current Process
 
 Choose a real process you're involved in. Good candidates:
 - New employee onboarding
@@ -43,7 +43,7 @@ at the end."
 
 ---
 
-## Exercise 2: Generate the Current-State SOP (20 min)
+## Exercise 2: Generate the Current-State SOP
 
 Turn the process map into a proper Standard Operating Procedure:
 
@@ -74,7 +74,7 @@ This SOP has standalone value even before improvement — most processes don't h
 
 ---
 
-## Exercise 3: Identify AI Integration Opportunities (20 min)
+## Exercise 3: Identify AI Integration Opportunities
 
 Now analyze the process for AI-first redesign:
 
@@ -109,7 +109,7 @@ would use."
 
 ---
 
-## Exercise 4: Design the Improved Process (20 min)
+## Exercise 4: Design the Improved Process
 
 Redesign with AI integrated:
 
@@ -136,7 +136,7 @@ Improved: X steps, Y minutes, Z handoffs"
 
 ---
 
-## Exercise 5: Build the Business Case (20 min)
+## Exercise 5: Build the Business Case
 
 Package this for a decision-maker:
 
@@ -151,7 +151,7 @@ Structure:
 - Problem statement (2-3 sentences)
 - Proposed solution (what changes)
 - Impact: time savings per cycle × frequency = annual hours saved
-- Cost: $0 (uses existing AI tools) or minimal
+- Cost: Uses free AI tools; additional costs scale with tool choice
 - Risk: what could go wrong and how we mitigate
 - Implementation: what it takes to switch (training, setup)
 - Recommendation: clear ask ('approve pilot for team X')

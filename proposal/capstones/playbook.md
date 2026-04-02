@@ -5,7 +5,7 @@ title: "Capstone: Personal AI Playbook"
 
 # Capstone: Personal AI Playbook
 
-**Difficulty:** All Levels | **Time:** Built throughout the program | **Deliverable:** A personal reference document of prompts, workflows, and lessons learned
+**Difficulty:** All Levels | **Deliverable:** A personal reference document of prompts, workflows, and lessons learned
 
 This is the universal capstone. Everyone builds a Personal AI Playbook regardless of which other capstone they choose. It's your portable toolkit — the collection of what actually works for you, refined through real use.
 
@@ -72,7 +72,7 @@ entries based on common beginner discoveries."
 
 ---
 
-## Exercise 1: Seed the Playbook (20 min)
+## Exercise 1: Seed the Playbook
 
 Start by capturing what you already know:
 
@@ -96,7 +96,7 @@ Based on this, generate:
 
 ---
 
-## Exercise 2: Capture from Capstone Work (15 min)
+## Exercise 2: Capture from Capstone Work
 
 After completing another capstone project, extract the reusable parts:
 
@@ -117,7 +117,7 @@ Repeat this after each capstone or significant AI project.
 
 ---
 
-## Exercise 3: Teach It to Someone Else (20 min)
+## Exercise 3: Teach It to Someone Else
 
 The best test of understanding is teaching. Pick your strongest playbook entry:
 
@@ -140,7 +140,7 @@ presenting at a conference."
 
 ---
 
-## Exercise 4: Audit and Improve (15 min)
+## Exercise 4: Audit and Improve
 
 Periodically review your playbook for quality:
 

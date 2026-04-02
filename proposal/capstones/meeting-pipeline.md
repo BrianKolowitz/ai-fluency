@@ -5,13 +5,13 @@ title: "Capstone: Meeting-to-Action Pipeline"
 
 # Capstone: Meeting-to-Action Pipeline
 
-**Difficulty:** Capable → Proficient | **Time:** ~1.5 hours across exercises | **Deliverable:** A reusable workflow that turns messy meeting notes into structured follow-ups
+**Difficulty:** Capable → Proficient | **Deliverable:** A reusable workflow that turns messy meeting notes into structured follow-ups
 
 Every organization loses hours to the same problem: meetings end, notes get filed, action items get forgotten. This project builds a repeatable pipeline that uses AI to extract, organize, and communicate what actually matters from any meeting.
 
 ---
 
-## Exercise 1: Process Raw Meeting Notes (15 min)
+## Exercise 1: Process Raw Meeting Notes
 
 Start with realistic, messy notes — the kind you'd actually take:
 
@@ -47,7 +47,7 @@ Format as clean sections with bullet points."
 
 ---
 
-## Exercise 2: Generate the Follow-Up Email (15 min)
+## Exercise 2: Generate the Follow-Up Email
 
 Turn the structured output into professional communication:
 
@@ -72,7 +72,7 @@ Subject line should be clear and include the date."
 
 ---
 
-## Exercise 3: Create the Next Meeting Agenda (15 min)
+## Exercise 3: Create the Next Meeting Agenda
 
 Chain from the follow-up to proactive planning:
 
@@ -102,7 +102,7 @@ This is where AI moves from reactive (processing notes) to proactive (identifyin
 
 ---
 
-## Exercise 4: Build Decision and Action Trackers (20 min)
+## Exercise 4: Build Decision and Action Trackers
 
 Meetings aren't isolated — they're part of an ongoing stream. Build tracking documents:
 
@@ -125,7 +125,7 @@ complete, a decision revisited)."
 
 ---
 
-## Exercise 5: Systematize the Pipeline (20 min)
+## Exercise 5: Systematize the Pipeline
 
 Turn this into a repeatable system:
 

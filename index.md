@@ -5,7 +5,7 @@ title: Home
 
 # AI Fluency
 
-**Build AI competency across your organization — safely, measurably, and at zero cost.**
+**Build AI competency across your organization — safely, measurably, and using free tools.**
 
 AI isn't slowing down. Your teams can't afford to wait for the next training cycle. This framework delivers practical AI skills through micro-learning — short, focused exercises that build real fluency without pulling people away from their work.
 
@@ -48,5 +48,5 @@ AI isn't slowing down. Your teams can't afford to wait for the next training cyc
 | **AI-maintained** | Agents review and update content continuously |
 | **Safety-first** | Compliance guardrails embedded at every level |
 | **Measurable** | Fluency slope tracks growth rate, not just completion |
-| **Zero cost** | Uses free AI tools and existing infrastructure |
+| **Built on free tools** | Uses free-tier AI tools; costs scale with organizational choice |
 | **Open & forkable** | Fork, customize, deploy — own your program |

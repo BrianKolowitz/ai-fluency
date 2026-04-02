@@ -5,13 +5,13 @@ title: "Level 1: Beginner"
 
 # Level 1: Beginner — Foundations
 
-**Time:** ~1 hour | **Prerequisites:** Read the [Safety Guidelines](../guidelines.md) | **Goal:** Understand what AI is, what it can do, and how to interact with it safely.
+**Prerequisites:** Read the [Safety Guidelines](../guidelines.md) | **Goal:** Understand what AI is, what it can do, and how to interact with it safely.
 
 This level is for people with zero or minimal AI experience. No technical background needed. By the end, you'll have a mental model for what AI tools are, how they work at a high level, and the confidence to start using them.
 
 ---
 
-## 1.1 What Is AI? (15 min)
+## 1.1 What Is AI?
 
 AI tools like ChatGPT, Claude, and Grok are **large language models (LLMs)** — systems trained on vast amounts of text that can generate human-like responses to prompts. They're powerful for drafting, summarizing, brainstorming, and analyzing — but they don't "know" anything. They predict useful text based on patterns.
 
@@ -43,7 +43,7 @@ about what AI gets wrong?"
 
 ---
 
-## 1.2 Why AI at Work? (15 min)
+## 1.2 Why AI at Work?
 
 AI isn't replacing workers. It's eliminating the repetitive, time-consuming tasks that pull you away from higher-value work. Think of it as a drafting assistant that works instantly.
 
@@ -73,7 +73,7 @@ practical."
 
 ---
 
-## 1.3 Your First Useful Output (20 min)
+## 1.3 Your First Useful Output
 
 Time to produce something you'd actually use. Choose the exercise that matches your role:
 
