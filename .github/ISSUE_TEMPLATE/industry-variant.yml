@@ -1,0 +1,56 @@
+name: "\U0001F3ED Industry Variant"
+description: Suggest an industry-specific adaptation for an exercise
+title: "[Industry Variant] "
+labels: ["industry-variant", "content"]
+body:
+  - type: input
+    id: industry
+    attributes:
+      label: Industry
+      description: What industry is this variant for?
+      placeholder: "E.g., finance, education, legal, manufacturing, government"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: page
+    attributes:
+      label: Which exercise or page?
+      options:
+        - "Level 1: Beginner — specific exercise"
+        - "Level 2: Capable — specific exercise"
+        - "Level 3: Proficient — specific exercise"
+        - "Level 4: Expert — specific exercise"
+        - "Capstone: Expense Report Builder"
+        - "Capstone: Meeting-to-Action Pipeline"
+        - "Capstone: Process Documentation & Improvement"
+        - "Capstone: Personal AI Playbook"
+        - "General — applies across the framework"
+    validations:
+      required: true
+
+  - type: input
+    id: exercise
+    attributes:
+      label: Specific exercise (if applicable)
+      placeholder: "E.g., Exercise 3.2"
+    validations:
+      required: false
+
+  - type: textarea
+    id: variant
+    attributes:
+      label: Describe the industry variant
+      description: How should the exercise be adapted for your industry? Include specific scenarios, compliance requirements, or domain-specific context.
+      placeholder: "For finance, this exercise should use a quarterly audit preparation scenario instead of..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: compliance
+    attributes:
+      label: Compliance or regulatory considerations (if any)
+      description: Are there industry-specific rules that should be noted?
+      placeholder: "SOX compliance requires that AI-generated financial summaries..."
+    validations:
+      required: false

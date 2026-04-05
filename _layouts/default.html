@@ -51,21 +51,15 @@
         color: #444;
         margin-right: 18px;
       }
-      .breadcrumb {
-        font-size: 13px;
-        color: #666;
-        margin-bottom: 20px;
-      }
-      .breadcrumb a {
-        color: #b5e853;
-      }
-      .page-nav {
+      .feedback-cta {
         margin-top: 40px;
-        padding-top: 20px;
-        border-top: 1px solid #333;
+        padding: 15px 20px;
+        border: 1px solid #333;
+        border-left: 3px solid #b5e853;
+        background: #1a1a1a;
         font-size: 14px;
       }
-      .page-nav a {
+      .feedback-cta a {
         color: #b5e853;
       }
       footer {
@@ -73,7 +67,7 @@
         color: #666;
         border-top: 1px solid #333;
         padding-top: 15px;
-        margin-top: 40px;
+        margin-top: 20px;
       }
       footer a {
         color: #b5e853;
@@ -104,6 +98,8 @@
         <span class="sep">|</span>
         <a href="{{ '/process-flow.html' | relative_url }}">Diagrams</a>
         <span class="sep">|</span>
+        <a href="{{ '/feedback.html' | relative_url }}">Feedback</a>
+        <span class="sep">|</span>
         <a href="https://github.com/BrianKolowitz/ai-fluency">GitHub</a>
       </div>
     </nav>
@@ -117,10 +113,16 @@
       <section id="main_content" class="inner">
         {{ content }}
 
+        <div class="feedback-cta">
+          Was this page helpful? <a href="https://github.com/BrianKolowitz/ai-fluency/issues/new?template=content-feedback.yml&title=%5BFeedback%5D+{{ page.title | url_encode }}">Give feedback</a> or <a href="https://github.com/BrianKolowitz/ai-fluency/issues/new?template=exercise-suggestion.yml&title=%5BSuggestion%5D+{{ page.title | url_encode }}">suggest an improvement</a>. Your input directly shapes this framework. <a href="{{ '/feedback.html' | relative_url }}">Learn how →</a>
+        </div>
+
         <footer>
           <a href="{{ '/LICENSE.html' | relative_url }}">CC BY-NC-SA 4.0</a> &copy; 2026 Brian Kolowitz
           <span class="sep">|</span>
           <a href="{{ '/CONTRIBUTING.html' | relative_url }}">Contribute</a>
+          <span class="sep">|</span>
+          <a href="{{ '/feedback.html' | relative_url }}">Feedback</a>
         </footer>
       </section>
     </div>

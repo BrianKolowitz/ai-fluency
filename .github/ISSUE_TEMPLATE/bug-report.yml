@@ -1,0 +1,43 @@
+name: "\U0001F41B Bug or Error Report"
+description: Report incorrect information, broken links, or rendering issues
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: What kind of issue?
+      options:
+        - "Broken link"
+        - "Incorrect information"
+        - "Rendering issue (diagram, table, formatting)"
+        - "Typo or grammar error"
+        - "Outdated content (tool changed, info no longer accurate)"
+        - "Other"
+    validations:
+      required: true
+
+  - type: input
+    id: page
+    attributes:
+      label: Which page?
+      description: Page title or URL
+      placeholder: "E.g., Level 2: Capable, or /proposal/levels/capable.html"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the issue
+      description: What's wrong? Include the specific text, link, or section.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should it say or do instead?
+      description: If you know the correct information, include it here.
+    validations:
+      required: false

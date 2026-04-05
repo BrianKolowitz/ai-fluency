@@ -37,6 +37,7 @@ AI isn't slowing down. Your teams can't afford to wait for the next training cyc
 ### Implementation
 - [Implementation Plan](./proposal/implementation.md) — Rollout strategy and delivery
 - [Process Flows & Architecture](./process-flow.md) — Visual diagrams of the system
+- [Feedback & Improvement](./feedback.md) — How your feedback drives content evolution
 
 ---
 

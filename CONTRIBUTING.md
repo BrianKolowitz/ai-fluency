@@ -7,6 +7,10 @@ title: Contributing
 
 Contributions are welcome. This is an open-source framework — the more perspectives and expertise it includes, the better it serves organizations adopting AI.
 
+## Give Feedback (Easiest Way to Contribute)
+
+Completed an exercise? [File a feedback issue](https://github.com/BrianKolowitz/ai-fluency/issues/new?template=content-feedback.yml) — rate the content and tell us what worked. Your ratings and comments are analyzed by AI agents to identify patterns and drive improvements. See [Feedback & Improvement](./feedback.md) for how the system works.
+
 ## What We're Looking For
 
 - **New exercises** — Practical exercises for any competency level, applicable across industries

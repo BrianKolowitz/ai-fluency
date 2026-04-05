@@ -25,3 +25,5 @@ Inspired by [Zapier's AI Fluency Rubric](https://zapier.com/blog/raising-ai-flue
 
 ## Implementation
 - [Implementation Plan](./implementation.md) — Rollout strategy and delivery
+- [Process Flows & Architecture](../process-flow.md) — Visual diagrams of the system
+- [Feedback & Improvement](../feedback.md) — How feedback drives content evolution

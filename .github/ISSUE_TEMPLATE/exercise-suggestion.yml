@@ -1,0 +1,59 @@
+name: "\U0001F4A1 Exercise or Content Suggestion"
+description: Propose a new exercise, lesson, or content improvement
+title: "[Suggestion] "
+labels: ["suggestion", "content"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: What are you suggesting?
+      options:
+        - "New exercise for an existing level"
+        - "New capstone project"
+        - "Improvement to an existing exercise"
+        - "New topic or concept to cover"
+        - "Better example or scenario"
+        - "Other"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: level
+    attributes:
+      label: Which level does this apply to?
+      options:
+        - "Beginner"
+        - "Capable"
+        - "Proficient"
+        - "Expert"
+        - "Capstone"
+        - "General / cross-level"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your suggestion
+      description: What should be added or changed? Why would it help?
+      placeholder: "An exercise that walks through using AI to prepare for a presentation would bridge the gap between..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: example
+    attributes:
+      label: Example prompt or exercise (if you have one)
+      description: Draft the exercise if possible — even a rough version helps
+      render: markdown
+    validations:
+      required: false
+
+  - type: input
+    id: role
+    attributes:
+      label: Your role (optional)
+      description: Helps us understand the perspective behind the suggestion
+      placeholder: "E.g., operations manager, nurse, developer"
+    validations:
+      required: false

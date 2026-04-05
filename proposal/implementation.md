@@ -85,13 +85,15 @@ AI agents perform a full content review:
 
 ### Continuous Improvement Loop
 
+Feedback is collected through [GitHub Issues](../feedback.md) with structured templates — learners rate content on relevance, clarity, and difficulty, and provide free-text comments. AI agents scan issues on a review cycle, detect patterns, and draft pull requests to improve or replace content. Humans review and merge.
+
 <div class="mermaid">
 flowchart LR
-    A[Learners complete exercises] --> B[Feedback collected]
+    A[Learners complete exercises] --> B[Feedback filed as GitHub Issues]
     B --> C[AI Agent analyzes patterns]
-    C --> D[Content updates proposed]
-    D --> E[Admin reviews & approves]
-    E --> F[Repo updated, Pages redeployed]
+    C --> D[Content updates proposed as PRs]
+    D --> E[Admin reviews & merges]
+    E --> F[Site auto-updates via Pages]
     F --> A
 </div>
 

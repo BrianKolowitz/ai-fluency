@@ -145,6 +145,32 @@ flowchart TD
     J --> D
 </div>
 
+## Feedback-Driven Improvement
+
+How learner feedback flows through GitHub Issues to improve the framework:
+
+<div class="mermaid">
+flowchart TD
+    A[Learner completes exercise] --> B{Was it helpful?}
+    B -->|Yes| C[File feedback via GitHub Issue<br/>Rate: relevance, clarity, difficulty]
+    B -->|No| C
+    B -->|Has suggestion| D[File suggestion via GitHub Issue<br/>New exercise or improvement]
+    C --> E[Issue labeled & categorized<br/>by content area and type]
+    D --> E
+    E --> F[AI Agent scans issues<br/>on review cycle]
+    F --> G{Pattern detected?}
+    G -->|Low ratings cluster| H[Agent drafts content rewrite<br/>Creates Pull Request]
+    G -->|Multiple similar suggestions| I[Agent drafts new content<br/>Creates Pull Request]
+    G -->|Bug or error| J[Agent or maintainer<br/>fixes directly]
+    G -->|Isolated feedback| K[Logged for future review]
+    H --> L[Human reviews PR]
+    I --> L
+    J --> L
+    L --> M[Merge & deploy<br/>GitHub Pages auto-updates]
+    M --> N[Learners see improved content]
+    N --> A
+</div>
+
 ---
 
 [← Back to Home](./index.md)

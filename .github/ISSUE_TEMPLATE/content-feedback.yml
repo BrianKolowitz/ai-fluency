@@ -1,0 +1,132 @@
+name: "\U0001F4DD Content Feedback"
+description: Rate and comment on a specific page, exercise, or lesson
+title: "[Feedback] "
+labels: ["feedback", "content"]
+body:
+  - type: dropdown
+    id: page
+    attributes:
+      label: Which page or section?
+      options:
+        - "Overview & Executive Summary"
+        - "AI Safety & Compliance Guidelines"
+        - "Measuring Success"
+        - "Implementation Plan"
+        - "Level 1: Beginner — Foundations"
+        - "Level 2: Capable — Applied Use"
+        - "Level 3: Proficient — Workflow Redesign"
+        - "Level 4: Expert — Innovation & Leadership"
+        - "Capstone: Expense Report Builder"
+        - "Capstone: Meeting-to-Action Pipeline"
+        - "Capstone: Process Documentation & Improvement"
+        - "Capstone: Personal AI Playbook"
+        - "Process Flows & Architecture"
+        - "Other (describe below)"
+    validations:
+      required: true
+
+  - type: input
+    id: exercise
+    attributes:
+      label: Specific exercise (if applicable)
+      description: "E.g., Exercise 2.1, Capstone Exercise 3"
+      placeholder: "Exercise number or name"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: rating-relevance
+    attributes:
+      label: "Relevance — How useful is this for your work?"
+      options:
+        - "5 — Directly applicable"
+        - "4 — Mostly relevant"
+        - "3 — Somewhat relevant"
+        - "2 — Marginally relevant"
+        - "1 — Not relevant to my role"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: rating-clarity
+    attributes:
+      label: "Clarity — How easy is this to follow?"
+      options:
+        - "5 — Crystal clear"
+        - "4 — Clear with minor confusion"
+        - "3 — Understandable but could be clearer"
+        - "2 — Confusing in places"
+        - "1 — Very hard to follow"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: rating-difficulty
+    attributes:
+      label: "Difficulty — How does the challenge level feel?"
+      options:
+        - "Too easy — I didn't learn anything new"
+        - "Just right — Challenging but achievable"
+        - "Too hard — I got stuck or frustrated"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: completed
+    attributes:
+      label: "Did you complete the exercise?"
+      options:
+        - "Yes — completed fully"
+        - "Partially — completed some of it"
+        - "No — didn't attempt"
+        - "No — attempted but got stuck"
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-worked
+    attributes:
+      label: What worked well?
+      description: What was valuable, clear, or effective?
+      placeholder: "The structured prompt framework in 2.1 was immediately useful..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: what-didnt
+    attributes:
+      label: What didn't work or could be improved?
+      description: What was confusing, missing, or unhelpful?
+      placeholder: "The exercise assumed I had access to..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggestions
+      description: How would you improve this content?
+      placeholder: "It would help to have an example output showing..."
+    validations:
+      required: false
+
+  - type: input
+    id: role
+    attributes:
+      label: Your role (optional)
+      description: Helps us understand who the content serves best
+      placeholder: "E.g., project manager, clinical analyst, IT admin"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: level
+    attributes:
+      label: Your current AI fluency level (self-assessed)
+      options:
+        - "Beginner — Just starting with AI"
+        - "Capable — Use AI occasionally"
+        - "Proficient — Use AI regularly in my work"
+        - "Expert — Design AI workflows and mentor others"
+    validations:
+      required: false
